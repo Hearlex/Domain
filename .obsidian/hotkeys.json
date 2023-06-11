@@ -1,0 +1,16 @@
+{
+  "obsidian-quickshare:obsidian-quickshare-share-note": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "canvas:convert-to-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ]
+}

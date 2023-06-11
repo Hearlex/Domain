@@ -1,0 +1,3 @@
+A szakértők nem rendelkeznek mágikus képeséggekkel, szellemteremtményekkel vagy természetfeletti képeségekkel. Ellenben lehetnek tehetségesek, keményen dolgozó vagy éppen ravaszsággal felszerelt lények.
+
+Különlegességük, hogy más képesség révén, csak a mindenki által elérhető készségek fejlesztésére szánják idejüket. Van aki valamilyen harceszközzel, harcművészettel vagy taktikai gondolkodásban emelkedik ki. És van olyan aki a karizmatikus képességeit vagy kereskedelmi képességeit fejlesztette tovább.

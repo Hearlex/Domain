@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "472b0774591dbb74",
+    "type": "split",
+    "children": [
+      {
+        "id": "605cbbcbdf0c4c3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03587216848f26fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "59838a1f391372f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Karakterek/Karakterértékek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864d986cfa7ecfed",
+    "type": "split",
+    "children": [
+      {
+        "id": "320a05b5c68e79e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "268360ef119ee6ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a910b11f90a25ead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "525241b9d020197a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4a8ab71e8986f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "06787582d88e3dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89d2419351ec4a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Játék/Karakterek/Karakterértékek.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e53b5ffdf301fab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Játék/Karakterek/Karakterértékek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad1a3f49d0378d2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94b42d4248148277",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Játék/Karakterek/Karakterértékek.md"
+              }
+            }
+          },
+          {
+            "id": "dc525531ce40cf07",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "59838a1f391372f7",
+  "lastOpenFiles": [
+    "Játék/Karakterek/Osztályok/Szellemidézők (Osztály).md",
+    "Világ/Osztályok/Szellemidézők, használók.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Elsőrendű varázslatok.md",
+    "Játék/Karakterek/Skillfák/Elemi mágiafa.canvas",
+    "Játék/Karakterek/Osztályok/Mágusok (Osztály).md",
+    "Játék/Karakterek/Skillfák",
+    "Játék/Karakterek/Közös Játékmechanikák",
+    "Játék/Karakterek/Karakterértékek.md",
+    "Világ/Osztályok/Mágusok.md",
+    "Világ/Rageus.md",
+    "Világ/Kristályok/Kristály.md",
+    "Játék/Karakterek/Skillfák/Fegyverfa.canvas",
+    "Játék/Karakterek/Osztályok/Elemi mágiafa.md",
+    "Játék/Karakterek/Osztályok",
+    "Világ/Kristályok/Energia.md",
+    "Játék/Karakterek",
+    "Játék",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1686395193679.md",
+    "_debug_remotely_save/sync_plans_hist_exported_on_1686395190080.md",
+    "_debug_remotely_save",
+    "Világ/Kristályok/Tér és Idő.md",
+    "Világ/Kristályok/Szél.md",
+    "Világ/Osztályok/Természetfeletti.md",
+    "Világ/Osztályok/Szakértő.md",
+    "Világ/Képek/Tér és Idő kristály.png",
+    "Világ/Osztályok",
+    "Világ/Képek/Elektromosság kristály.png",
+    "Világ/Képek/Élet kristály.png",
+    "Világ/Képek/Tűz kristály.png",
+    "Világ/Képek/Jég kristály.png",
+    "Világ/Képek/Föld kristály.png",
+    "Világ/Kristályok/Élet.md",
+    "Világ/Kristályok/Elektromosság.md",
+    "Világ/Kristályok/Föld.md",
+    "Világ/Kristályok/Jég.md",
+    "Világ/Kristályok/Víz.md",
+    "Világ/Képek/Víz kristály.png",
+    "Világ/Kristályok/Tűz.md",
+    "Világ/Képek/Szél kristály.png",
+    "2023-06-10.md",
+    "Untitled.canvas",
+    "Világ/Képek",
+    "Világ/Kristályok",
+    "Világ/Képek/Rageus (Kívűlről).png",
+    "World/Untitled"
+  ]
+}

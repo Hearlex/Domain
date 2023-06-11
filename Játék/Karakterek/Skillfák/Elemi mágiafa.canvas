@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"text","text":"Egyenes {Forma} (1 pont)","id":"88a3a6af98051526","x":-800,"y":-98,"width":250,"height":60},
+		{"type":"text","text":"Kör {Forma} (3 pont)","id":"baafd0ce16c868ba","x":-240,"y":-98,"width":250,"height":60},
+		{"type":"text","text":"Tölcsér {Forma} (2 pont)","id":"28a7b015aaca8d30","x":-520,"y":-98,"width":250,"height":60},
+		{"type":"text","text":"Érintés {Médium} (1 pont)","id":"2edee941d482444e","x":-464,"y":-460,"width":250,"height":60},
+		{"type":"text","text":"Lövedék {Médium} (1 pont)","id":"16e19b976edaab11","x":-770,"y":-460,"width":250,"height":60},
+		{"type":"text","text":"Affinitás egy elemhez (Előfeltétel és kezdőpont)","id":"e43c3a5944ec9a28","x":-115,"y":-400,"width":250,"height":100},
+		{"type":"text","text":"Egyszeri {Idő} (1 pont)","id":"344986bab1a3ef61","x":220,"y":-430,"width":250,"height":60},
+		{"type":"text","text":"Védelem {Hatás} (1 pont)","id":"628be49e883254cb","x":10,"y":-260,"width":250,"height":60},
+		{"type":"text","text":"Sebzés {Hatás} (1 pont)","id":"8f200624f11c3a46","x":380,"y":-260,"width":250,"height":60},
+		{"type":"text","text":"Semleges hatás {Hatás} (1 pont)","id":"33bd237630714141","x":60,"y":-150,"width":250,"height":60},
+		{"type":"text","text":"Áldás {Hatás} (2 pont)","id":"0c21d69e915dde66","x":320,"y":-150,"width":250,"height":60},
+		{"type":"text","text":"Folyamatos {Idő} (3 pont)","id":"56ae2af7f2393d97","x":220,"y":-520,"width":250,"height":60},
+		{"type":"text","text":"Ismétlődő {Idő} (2 pont)","id":"6f04e6e97a210573","x":220,"y":-600,"width":250,"height":60},
+		{"type":"text","text":"Párhuzamos hatás (4 pont)","id":"5542e38b36e837ae","x":178,"y":-73,"width":250,"height":60},
+		{"type":"text","text":"Párhuzamos energiák használata (2 pont)","id":"4450197135d6c999","x":178,"y":20,"width":250,"height":60},
+		{"type":"text","text":"Másik affinitás (előfeltétel)","id":"51c6f8d4c9891da2","x":-160,"y":20,"width":250,"height":60},
+		{"type":"text","text":"Pont {Forma} (1 pont)","id":"2a97b797843cc7b7","x":-980,"y":-290,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0765a155ca31ff17","fromNode":"16e19b976edaab11","fromSide":"bottom","toNode":"88a3a6af98051526","toSide":"top","color":"2"},
+		{"id":"1b44a507dc9f5f81","fromNode":"16e19b976edaab11","fromSide":"bottom","toNode":"baafd0ce16c868ba","toSide":"top","color":"2"},
+		{"id":"9c790bbba069939a","fromNode":"2edee941d482444e","fromSide":"bottom","toNode":"28a7b015aaca8d30","toSide":"top","color":"3"},
+		{"id":"ac4a74e304fbccf5","fromNode":"2edee941d482444e","fromSide":"bottom","toNode":"88a3a6af98051526","toSide":"top","color":"3"},
+		{"id":"0b5e403eac8f9114","fromNode":"2edee941d482444e","fromSide":"bottom","toNode":"baafd0ce16c868ba","toSide":"top","color":"3"},
+		{"id":"4c2da99520d94c12","fromNode":"e43c3a5944ec9a28","fromSide":"top","toNode":"16e19b976edaab11","toSide":"top"},
+		{"id":"e3374d211597e53e","fromNode":"e43c3a5944ec9a28","fromSide":"top","toNode":"2edee941d482444e","toSide":"top"},
+		{"id":"2817042be8373a09","fromNode":"e43c3a5944ec9a28","fromSide":"right","toNode":"344986bab1a3ef61","toSide":"left"},
+		{"id":"647fe52d885fc2b2","fromNode":"e43c3a5944ec9a28","fromSide":"right","toNode":"56ae2af7f2393d97","toSide":"left"},
+		{"id":"c9f59d12250d537d","fromNode":"e43c3a5944ec9a28","fromSide":"right","toNode":"6f04e6e97a210573","toSide":"left"},
+		{"id":"81c948c8f0e3a212","fromNode":"344986bab1a3ef61","fromSide":"bottom","toNode":"5542e38b36e837ae","toSide":"top"},
+		{"id":"51d8b72ef2bc4788","fromNode":"344986bab1a3ef61","fromSide":"bottom","toNode":"628be49e883254cb","toSide":"top"},
+		{"id":"3f803aec15f9f76a","fromNode":"344986bab1a3ef61","fromSide":"bottom","toNode":"8f200624f11c3a46","toSide":"top"},
+		{"id":"fcf62d231dd0e876","fromNode":"344986bab1a3ef61","fromSide":"bottom","toNode":"33bd237630714141","toSide":"top"},
+		{"id":"48ef52ad538cfc1d","fromNode":"344986bab1a3ef61","fromSide":"bottom","toNode":"0c21d69e915dde66","toSide":"top"},
+		{"id":"34a0824f7596b1d5","fromNode":"51c6f8d4c9891da2","fromSide":"right","toNode":"4450197135d6c999","toSide":"left"},
+		{"id":"6bd65f70e91b732b","fromNode":"5542e38b36e837ae","fromSide":"bottom","toNode":"4450197135d6c999","toSide":"top"},
+		{"id":"62c1c80caba5920c","fromNode":"16e19b976edaab11","fromSide":"bottom","toNode":"2a97b797843cc7b7","toSide":"right","color":"2"},
+		{"id":"90e99835e8194114","fromNode":"2edee941d482444e","fromSide":"bottom","toNode":"2a97b797843cc7b7","toSide":"right","color":"3"}
+	]
+}

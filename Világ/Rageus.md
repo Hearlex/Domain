@@ -1,0 +1,8 @@
+Ez a világ neve, Rageus (ré-ge-usz). A semmiben lebegő sziget ami egyszer csak létrejött a semmiből. A világ szélén az óceán leömlik a semmibe majd szépen lassan elpárolog. Az óceánon kettő kontinens található, az egyik amely a világ nagy részét kiteszi, a főkontinens ahol a történetek többsége játszódik. A föld maga egy hatszögletű csillagként épül fel, mintha két háromszög egymásba lett volna forgatva. A kontinens közepén egy hatszögletű szakadék van, aminek az alján egy nagyobb tenger található és azon belül néhány sziget, prominens a közepén található kis sziget, amely valójában a világ közepe. A másik kontinens egy kisebb körnegyed, akárcsak a megfogyatkozott hold egyes világokban.
+
+A világot 8 darab óriás kristálymonolit irányítja. A hatszögletű csillag minden ágán egy-egy [[Kristály]] uralkodik, ezek az elemi kristályok. A főkontinens közepén található sziget, pedig a fehér kristályoszlopot tartalmazza. A fekete kristályoszlop a negyedhold kontinensen található, ott ahol a az élei majdnem összeérnek.
+
+Látszólag minden óramű pontosságban működik. Az idő múlásával a vörös kristály tüzet lő az égre, így az égkupola teteje izzó fényességbe borul. A nap ezzel veszi kezdetét, végét pedig az jelzi, amikor az izzó fény a kupola aljához kerül, ahonnan a kék kristály magába szívja annak hőjét.
+Így telik a nappal és az éjszaka. A napok múlásával pedig a földben található energia másik kristályhoz közeledik. Eljön az a nap, amikor a vörös kristály átadja erejét a sárga kristálynak, vagy az a kék kristálynak. A kék kristály után a türkíz kristály, majd a zöld kristály következik. Az utolsó a sorban a lila kristály lesz.
+
+![[Rageus (Kívűlről).png]]
