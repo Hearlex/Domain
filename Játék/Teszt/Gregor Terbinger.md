@@ -1,4 +1,4 @@
-Faj: Ember
+Faj: [[Ember]]
 Osztály: [[Szakértő]]
 
 | STR | TGH | SPD | DEX | INT | CHA | WIS | WIL | PER | LUC |

@@ -11,10 +11,14 @@
             "id": "fc1fa18c29673643",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Karakterértékek"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Karakterértékek"
             }
           },
           {
@@ -188,8 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be1a5f92845c6723",
+  "active": "fc1fa18c29673643",
   "lastOpenFiles": [
+    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+    "Világ/Rageus.md",
+    "Játék/Szabályok/Osztályok/Szellemidéző.md",
+    "Játék/Szabályok/Osztályok/Mágus.md",
+    "Játék/Szabályok/Osztályok/Természetfeletti.md",
+    "Játék/Szabályok/Osztályok/Szakértő.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Játék/Teszt/Gregor Terbinger.md",
+    "Világ/Osztályok/Természetfelettiek.md",
+    "Játék/Szabályok/Fajok/Ember.md",
+    "Világ/Mágia/Mágia képe.md",
+    "Világ/Mágia/Fonal.md",
+    "Világ/Tárgyak/Ásványok/Trianát.md",
     "01 - Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Nyelv.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Kereskedelem.canvas",
@@ -211,10 +231,6 @@
     "Játék/Szabályok/Skillfák/Skillek",
     "Játék/Szabályok/Skillfák/Tervezésalatt",
     "Játék/Szabályok/Skillfák/Kész",
-    "Játék/Szabályok/Osztályok/Természetfelettiek (Osztály).md",
-    "Játék/Szabályok/Osztályok/Szellemidézők (Osztály).md",
-    "Játék/Szabályok/Osztályok/Szakértők (Osztály).md",
-    "Játék/Szabályok/Osztályok/Mágusok (Osztály).md",
     "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
     "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
     "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
@@ -222,20 +238,10 @@
     "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
     "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
     "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
     "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
     "Játék/Szabályok/Közös Játékmechanikák/Elsőrendű varázslatok.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
     "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
-    "Játék/Szabályok/Fajok/Emberek (Faj).md",
-    "Játék/Teszt/Gregor Terbinger.md",
     "Játék/Szabályok/Skillfák",
-    "01 - Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
-    "01 - Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
-    "01 - Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
-    "01 - Játék/Teszt/Gregor Terbinger.md",
-    "01 - Játék/Szabályok/Skillfák/Skillek/Hajítás.md",
     "Világ/Képek/Elektromosság kristály.png",
     "Világ/Képek/Rageus (Kívűlről).png",
     "Világ/Képek/Föld kristály.png",

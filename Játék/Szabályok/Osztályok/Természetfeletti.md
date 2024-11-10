@@ -1,4 +1,4 @@
-Lásd: [[Természetfeletti]]
+Lásd: [[Természetfelettiek]]
 A következőkkel rendelkeznek:
 	- Mana - az ő esetükben, a mana jelentheti ugyanúgy a mágusokhoz hasonló manát, de ugyanígy jelenti azt az erőt is amiből a képességüket használják
 

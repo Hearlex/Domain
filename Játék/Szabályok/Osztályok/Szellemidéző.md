@@ -22,7 +22,7 @@ A kisebb szellemhasználók kis vagy közepes szellemek csoportját köti magáh
 Azok akik sikeresen megkötnek egy nagyobb szellemet, valamilyen alkuért cserébe, elveszítik a képességet, hogy a környezetből hatásokat tegyenek szellemeken keresztül. Ellenben kapnak egy társat, aki önmagában felülmúlja mindazt amit más szellemhasználók képesek tenni.
 
 Ilyenkor a játékos két karaktert irányít. Az egyik a sajátja, ami megkötötte a szellemet. A másik pedig a szellem ami saját intelligenciával rendelkezik.
-A játékos képességeit ugyanúgy kell építeni, mint egy szakértőét. A szellem erejét pedig a játékos választja ki (a kampány kezdésekor vagy a szellem megkötésekor). A választási lehetőségek a [[Szakértők (Osztály)]], [[Természetfelettiek (Osztály)]] és [[Mágikus Teremtmények (Szellem)]]-ben leírtaknak megfelelően történik, mint egy második karakter. A szellemek erejétől függően azonban, a játékmester határozza meg a szintjüket.
+A játékos képességeit ugyanúgy kell építeni, mint egy szakértőét. A szellem erejét pedig a játékos választja ki (a kampány kezdésekor vagy a szellem megkötésekor). A választási lehetőségek a [[Játék/Szabályok/Osztályok/Szakértő]], [[Természetfeletti]] és [[Mágikus Teremtmények (Szellem)]]-ben leírtaknak megfelelően történik, mint egy második karakter. A szellemek erejétől függően azonban, a játékmester határozza meg a szintjüket.
 
 A játékos további karaktereket is felvehet maga mellé, ha manája 1000 felé emelkedik. Minden 1000 mana utána egy újabb szellemmel köthet szerződést.
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiSalt",
-      "LiFlower2",
-      "TiDiamond",
-      "FasWeightHanging",
-      "TiKeyframeAlignVertical"
+      "FasHatWizard",
+      "FabSuperpowers",
+      "TiGhost2Filled",
+      "LiSword",
+      "👨‍🌾"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -76,13 +76,18 @@
   "Világ/Mágia/Fonal.md": "TiTopologyStarRing2",
   "Világ/Osztályok/Szellemidézők, használók.md": "TiGhost2Filled",
   "Világ/Mágia/Hatások": "TiLayersDifference",
-  "Világ/Osztályok/Szakértő.md": "LiSword",
-  "Világ/Osztályok/Természetfeletti.md": "FabSuperpowers",
   "Világ/Mágia/Mágia formái.md": "FasWandMagicSparkles",
   "Világ/Mágia/Mágia képe.md": "TiCircuitDiodeZener",
   "Világ/Mágia/Varázskörök.md": "SiCircle",
   "Világ/Mágia/Mágikusnyelvelemek": "TiKeyframeAlignVertical",
   "Világ/Tárgyak/Alapanyagok": "TiSalt",
   "Világ/Tárgyak/Ásványok": "TiDiamond",
-  "Világ/Tárgyak/Növények": "LiFlower2"
+  "Világ/Tárgyak/Növények": "LiFlower2",
+  "Játék/Szabályok/Fajok/Ember.md": "👨‍🌾",
+  "Játék/Szabályok/Osztályok/Szakértő.md": "LiSword",
+  "Világ/Osztályok/Szakértők.md": "LiSword",
+  "Világ/Osztályok/Természetfelettiek.md": "FabSuperpowers",
+  "Játék/Szabályok/Osztályok/Szellemidéző.md": "TiGhost2Filled",
+  "Játék/Szabályok/Osztályok/Természetfeletti.md": "FabSuperpowers",
+  "Játék/Szabályok/Osztályok/Mágus.md": "FasHatWizard"
 }

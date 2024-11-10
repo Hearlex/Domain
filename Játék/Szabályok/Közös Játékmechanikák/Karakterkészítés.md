@@ -7,6 +7,7 @@ A világban mindenki rendelkezik valamilyen osztállyal. Az is aki nem! Az oszt�
 
 ## 3. Kezdeti képességek
 Kezdetben minden karakter 10 szabadon felhasználható tudásponttal rendelkezik. Bármelyik a karaktered számára elérhető skillfában elindulhatsz és kifejleszthetsz valamilyen képességet.
+
 >[!info]
 >A fák elkezdéséhez szükséges kezdőpont 1 pont-ot igényel
 

@@ -1,4 +1,4 @@
-Lásd: [[Szakértő]]
+Lásd: [[Szakértők]]
 
 **Osztatlan figyelem (Passzív)**
 Mivel nincsen szuperképesség vagy varázslat ami eltudná venni a figyelmüket, így a Szakértők különlegessége, hogy gyorsabban tudnak fejlődni nem természetfeletti képességekben. Minden tapasztalatpont helyett amit kapnál, annak dupláját kapod.
