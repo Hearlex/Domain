@@ -1,5 +1,0 @@
-A játék során könnyedén előfordulhat, hogy valamelyik fél előnyben, valamelyik pedig hátrányban kell, hogy dobjon. Ilyen lehet ha az egyik fél magasabbról lő távolsági fegyverrel, vagy ha valaki törött lábbal szeretné átugrani egy platformra.
-
-Ebben a játékban az előnyök és hátrányok halmozhatóak és mindegyik egy újabb kocka dobását jelenti. Az előnyök és hátrányok kioltják egymást, így pedig ha az előnyök maradnak meg akkor a kockák közül a legjobbat, ha pedig a hátrányok maradnak meg a kockák közül a legrosszabb dobás eredményét kell használni.
-
-Amennyiben az előny a sebzésre is vagy csak specifikusan arra tér ki (például áldások esetén), akkor az előnyök számának megfelelő legkisebb értékű kocka dobható újra (nem kötelező). Sebzésre hátrány azt jelenti, hogy annyival csökken a dobott kockák száma.

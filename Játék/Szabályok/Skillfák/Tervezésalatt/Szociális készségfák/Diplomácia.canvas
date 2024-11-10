@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"9e3c510e2db78fa0","x":-172,"y":-323,"width":250,"height":60,"type":"text","text":"Figyelemfelkeltő beszéd (Kezdőpont)"},
+		{"id":"70303c85fb2446a9","x":78,"y":-214,"width":250,"height":60,"type":"text","text":"Megfélemlítés (2 pont)"},
+		{"id":"6e72e52a8ab25341","x":-422,"y":-214,"width":250,"height":60,"type":"text","text":"Meggyőzés (2 pont)"},
+		{"id":"47aa133731b41f2d","x":-672,"y":-100,"width":250,"height":60,"type":"text","text":"Kapcsolatépítés (1 pont)"},
+		{"id":"61d949946217c213","x":-172,"y":-100,"width":250,"height":60,"type":"text","text":"Hírnév építés (1 pont)"}
+	],
+	"edges":[
+		{"id":"2419c0bce7986732","fromNode":"9e3c510e2db78fa0","fromSide":"left","toNode":"6e72e52a8ab25341","toSide":"top"},
+		{"id":"dc1e1620ca10330a","fromNode":"9e3c510e2db78fa0","fromSide":"right","toNode":"70303c85fb2446a9","toSide":"top"},
+		{"id":"28e76ffd604f7512","fromNode":"6e72e52a8ab25341","fromSide":"left","toNode":"47aa133731b41f2d","toSide":"top"},
+		{"id":"5e6ead0ffc19a272","fromNode":"6e72e52a8ab25341","fromSide":"right","toNode":"61d949946217c213","toSide":"top"},
+		{"id":"c039dc5044476d5e","fromNode":"70303c85fb2446a9","fromSide":"left","toNode":"61d949946217c213","toSide":"top"}
+	]
+}

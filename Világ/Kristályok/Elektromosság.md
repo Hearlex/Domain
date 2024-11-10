@@ -1,3 +1,7 @@
+---
+cssclasses: []
+---
+
 ![[Elektromosság kristály.png|350]]
 Az elektromos áram a világ legtöbb részén ritka dolog. Csak az Elektromosság évszakában lehet látni, amikor hihetetlen fényjelenségek és halálos villámok jelennek meg. A villámláshoz affinitást érzők azonban sokféle dologra képesek:
 	- Telepatikus képességek.

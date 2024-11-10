@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7f6b2de7c81f15e2","x":-143,"y":-422,"width":250,"height":60,"type":"text","text":"Nyelv kiválasztása (Kezdőpont)"},
+		{"id":"bbced9bb8fcb0585","x":-143,"y":-300,"width":250,"height":60,"type":"text","text":"Olvasás (3 pont)"},
+		{"id":"e3f1d983374984f1","x":-143,"y":-180,"width":250,"height":60,"type":"text","text":"Írás (2 pont)"}
+	],
+	"edges":[
+		{"id":"61854004bc337787","fromNode":"7f6b2de7c81f15e2","fromSide":"bottom","toNode":"bbced9bb8fcb0585","toSide":"top"},
+		{"id":"77b716e255671e91","fromNode":"bbced9bb8fcb0585","fromSide":"bottom","toNode":"e3f1d983374984f1","toSide":"top"}
+	]
+}

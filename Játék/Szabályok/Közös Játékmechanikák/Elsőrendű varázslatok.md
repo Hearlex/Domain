@@ -1,0 +1,7 @@
+Minden kasztoló rendelkezik spell slotokkal. A spell slotok száma a következő képpen számolható ki: $$ slots = INT * 2 $$Ezekbe a slotokba előre bekészített mágiákat lehet behelyezni és kicserélni. A bekészítéshez nyugalomra és megváltoztatott képességenként 1 órára van szükség. Varázslatot a játékos állítja össze a karaktere által megtanult formából, időből, médiumból és hatásból.
+Ennek lépései:
+0. (Opcionális) Amennyiben van több affinitása a mágusnak vagy szellemidézőt játszik a játékos, ki kell, hogy válassza melyik energiát szeretné felhasználni. Ez alól csak a párhuzamos energiák használata hatás lehet kivétel (és csak azokat az energiákat használhatja ahol feloldotta ezt a képességet).
+1. A játékos kiválasztja a varázslat médiumát, azaz, hogy milyen módon történik a varázslat centrumának kiválasztása. Minden médium egyedi manaköltség szabályzattal rendelkezik, ezeket kasztolásnál figyelembe kell venni.
+2. A varázslat formája határozza meg, hogy a centrumtól milyen irányban, és mennyit terjed a varázslat hatása. A költségek itt is egyediek.
+3. A varázslat hatását és idejét egységesen kell meghatározni. Több hatás is lehetséges, de mindegyik külön időt igényel. A hatások egy relatív tág fogalomkörként müködnek, kiválaszt a játékos egy hatást pl.: "Semleges Hatás" és a Szél Kristálynál a Semleges Hatásban leírt telekinézist használjuk, hogy mozgassunk tárgyakat. Mivel nem egy egyszerű lökést, hanem folyamatos irányítást szeretnénk, a "Folyamatos" időt kell használnunk a hatáshoz.
+
