@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec2d06d170e57c5",
+        "id": "7218fc352c75ca3e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1fa18c29673643",
+            "id": "817e28efdceea377",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Tárgyak/Fegyverek.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Fegyverek"
+            }
+          },
+          {
+            "id": "ad854973f4d6a31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "Karakterértékek"
+            }
+          },
+          {
+            "id": "b23e12ecd4588ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dobások"
             }
           }
         ]
@@ -139,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md"
+                "file": "Játék/Tárgyak/Fegyverek.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Karakterértékek"
+              "title": "Outline of Fegyverek"
             }
           },
           {
@@ -161,8 +191,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -187,17 +217,22 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc1fa18c29673643",
+  "active": "817e28efdceea377",
   "lastOpenFiles": [
-    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
+    "Játék/Tárgyak/Fegyverek.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+    "Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
+    "Játék/Tárgyak",
+    "2024-11-10.md",
     "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
     "Világ/Rageus.md",
     "Játék/Szabályok/Osztályok/Szellemidéző.md",
     "Játék/Szabályok/Osztályok/Mágus.md",
@@ -226,7 +261,6 @@
     "Játék/Szabályok/Skillfák/Tervezésalatt/Fizikai készségfák",
     "Játék/Szabályok/Skillfák/Tervezésalatt/!Példák",
     "Játék/Szabályok/Skillfák/Kész/Mágiafák",
-    "Játék/Szabályok/Skillfák/Kész/Tudás.canvas",
     "Játék/Szabályok/Skillfák/Kész/Képesség",
     "Játék/Szabályok/Skillfák/Skillek",
     "Játék/Szabályok/Skillfák/Tervezésalatt",
@@ -237,11 +271,6 @@
     "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
     "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
     "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Elsőrendű varázslatok.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Szabályok/Skillfák",
     "Világ/Képek/Elektromosság kristály.png",
     "Világ/Képek/Rageus (Kívűlről).png",
     "Világ/Képek/Föld kristály.png",
