@@ -1,5 +1,5 @@
 Faj: Ember
-Osztály: Szakértő
+Osztály: [[Szakértő]]
 
 | STR | TGH | SPD | DEX | INT | CHA | WIS | WIL | PER | LUC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10,4 +10,4 @@ MP: 100
 Skillfák:
 Fegyver - Balta (4): Fegyverhordás, Egyszerű támadás, Védekezés
 Tudás - Vadászat (5): Kapcsolódó élőlények ismerete, kapcsolódó fogalmak, kapcsolódó tárgyak, mély ismeret
-Hajítás (1)
+[[Hajítás]] (1)

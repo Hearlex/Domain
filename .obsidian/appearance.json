@@ -3,7 +3,6 @@
   "baseFontSize": 17,
   "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
-    "rainbow-folder-titles",
-    "Colored Sidebar Items"
+    "rainbow-folder-titles"
   ]
 }
