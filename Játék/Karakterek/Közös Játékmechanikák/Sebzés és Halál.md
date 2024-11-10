@@ -1,0 +1,7 @@
+Amennyiben a karakter élete 0 alá esik eszméletlen állapotba kerül. Ha a karakter életének kétszeresét kapja sebzésként, akkor azonnal bekövetkezik a halál. Eszméletlen karaktereket ki lehet végezni (bizonyos esetekben eszméletvesztés lépését ki lehet hagyni).
+
+Halál bekövetkeztekor a játékosok az alábbi négy opció közül választhatnak:
+- A karakter nem hal meg, de valami súlyos hátrányt kap. - A GM eldöntheti, hogy milyen súlyos veszteséget kap a karakter azért cserébe, hogy túlélje az eseményt. A jelenet hátralevő részében nem játszhat egy ilyen karakter.
+- A karakter valóban meghal - A karakter valóban meghal.
+- A karakter hősi akciót kap - A hősi akció annyit jelent, hogy halála előtt még egy dolgot végrehajthat ami biztosan sikerülni fog. A GM dönti el mi fér bele a realitásba.
+- A sors kockája - A játékos a karakter sorsát egy kocka dobásra hagyja. Ez egy d20-as dobás, aminél 5 vagy az alatt a karakter azonnal meghal, 6-10 értékeknél meghal de még előtte végrehajt valamit, 11-15 értéknél nem hal meg de kap valami súlyos hátrányt, 16-20 értékeknél pedig nem hal meg és nem is kap súlyos hátrányt. Ha sikerül 20-ast dobni akkor a karakter teljes életével, és minden negatív hatás nélkül visszakerülhet a játékba.

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"766705f945e1a920","x":-100,"y":-360,"width":250,"height":60,"type":"text","text":"Nyelv kiválasztása (Kezdőpont)"},
+		{"id":"9b521cd323fc82ab","x":-100,"y":-240,"width":250,"height":60,"type":"text","text":"Alapfogalmak (1 pont)"},
+		{"id":"be9469a19de6c74a","x":240,"y":-100,"width":250,"height":60,"type":"text","text":"Felszerelés (1 pont)"},
+		{"id":"e5ca90b35936e7b8","x":-100,"y":-100,"width":250,"height":60,"type":"text","text":"Általános csevegés (3 pont)"},
+		{"id":"d949bef50bdbf43e","x":-440,"y":-100,"width":250,"height":60,"type":"text","text":"Szörnyek és Fajok (1 pont)"},
+		{"id":"b79f78b3224ee3f6","x":-100,"y":60,"width":250,"height":60,"type":"text","text":"Szofisztikált beszéd (4 pont)"}
+	],
+	"edges":[
+		{"id":"540215fc8b8d35ea","fromNode":"766705f945e1a920","fromSide":"bottom","toNode":"9b521cd323fc82ab","toSide":"top"},
+		{"id":"c4d437416b6e07d6","fromNode":"9b521cd323fc82ab","fromSide":"left","toNode":"d949bef50bdbf43e","toSide":"top"},
+		{"id":"ed94b7e51c9b4ca1","fromNode":"9b521cd323fc82ab","fromSide":"right","toNode":"be9469a19de6c74a","toSide":"top"},
+		{"id":"ede133d64e5f51cf","fromNode":"9b521cd323fc82ab","fromSide":"bottom","toNode":"e5ca90b35936e7b8","toSide":"top"},
+		{"id":"942d5f4c8fc340c5","fromNode":"e5ca90b35936e7b8","fromSide":"bottom","toNode":"b79f78b3224ee3f6","toSide":"top"}
+	]
+}

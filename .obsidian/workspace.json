@@ -4,31 +4,127 @@
     "type": "split",
     "children": [
       {
-        "id": "605cbbcbdf0c4c3b",
+        "id": "e789503f754c9de9",
         "type": "tabs",
         "children": [
           {
-            "id": "03587216848f26fb",
+            "id": "a428116e63d7b7c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Karakterek/Közös Játékmechanikák/Karakterértékek.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Karakterértékek"
             }
           },
           {
-            "id": "59838a1f391372f7",
+            "id": "850453417d21d96a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Karakterek/Közös Játékmechanikák/Karakterkészítés.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Karakterkészítés"
+            }
+          },
+          {
+            "id": "728867869c324a7f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Játék/Karakterek/Skillfák/Kész/Fegyverfa.canvas",
+                "viewState": {
+                  "x": -275,
+                  "y": -340,
+                  "zoom": -0.9354118821414479
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fegyverfa"
+            }
+          },
+          {
+            "id": "03fc5346a390bf06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Játék/Karakterek/Karakterértékek.md",
+                "file": "Játék/Karakterek/Osztályok/Szakértők (Osztály).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Szakértők (Osztály)"
+            }
+          },
+          {
+            "id": "d21261cae12c56dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Karakterek/Skillfák/Skillek/Hajítás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hajítás"
+            }
+          },
+          {
+            "id": "e8f0170c09e715ac",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Játék/Karakterek/Skillfák/Kész/Képesség/Hajítás.canvas",
+                "viewState": {
+                  "x": -25,
+                  "y": -151.86167512690352,
+                  "zoom": -0.3451744393796175
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Hajítás"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "ccd4432e40d636fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e6e9c1c8d37e3a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Teszt/Gregor Terbinger.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Gregor Terbinger"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +144,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,13 +155,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kristályok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -71,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,15 +196,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Játék/Karakterek/Karakterértékek.md",
+                "file": "Játék/Karakterek/Osztályok/Szellemidézők (Osztály).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Szellemidézők (Osztály)"
             }
           },
           {
@@ -111,10 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Játék/Karakterek/Karakterértékek.md",
+                "file": "Játék/Karakterek/Osztályok/Szellemidézők (Osztály).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Szellemidézők (Osztály)"
             }
           },
           {
@@ -125,7 +231,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,25 +242,48 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Játék/Karakterek/Karakterértékek.md"
-              }
+                "file": "Játék/Karakterek/Skillfák/Skillek/Hajítás.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hajítás"
             }
           },
           {
-            "id": "dc525531ce40cf07",
+            "id": "1ac2f922c04ce798",
             "type": "leaf",
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
+            }
+          },
+          {
+            "id": "0433322379349ccd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "be1a5f92845c6723",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,55 +293,65 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59838a1f391372f7",
+  "active": "d21261cae12c56dd",
   "lastOpenFiles": [
+    "Játék/Teszt/Gregor Terbinger.md",
+    "Játék/Karakterek/Skillfák/Skillek/Hajítás.md",
+    "Játék/Karakterek/Skillfák/Kész/Képesség",
+    "Játék/Karakterek/Skillfák/Kész/Képesség/Hajítás.canvas",
+    "Játék/Karakterek/Skillfák/Skillek",
+    "Játék/Karakterek/Skillfák/Tervezésalatt/!Példák/Képesség.canvas",
+    "Játék/Karakterek/Skillfák/Kész/Tudás.canvas",
+    "Játék/Karakterek/Skillfák/Kész/Fegyverfa.canvas",
+    "Játék/Karakterek/Közös Játékmechanikák/Karakterkészítés.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Karakterértékek.md",
+    "Világ/Mágia/Mágia formái.md",
     "Játék/Karakterek/Osztályok/Szellemidézők (Osztály).md",
-    "Világ/Osztályok/Szellemidézők, használók.md",
     "Játék/Karakterek/Közös Játékmechanikák/Elsőrendű varázslatok.md",
-    "Játék/Karakterek/Skillfák/Elemi mágiafa.canvas",
+    "Játék/Karakterek/Osztályok/Szakértők (Osztály).md",
+    "Játék/Karakterek/Fajok/Emberek (Faj).md",
+    "Játék/Karakterek/Közös Játékmechanikák/Akciók.md",
+    "Játék/Karakterek/Skillfák/Kész/Mágiafák/Elemi mágiafa.canvas",
+    "Játék/Karakterek/Skillfák/Tervezésalatt/Természetfeletti fák/Természetfeletti képességfa.canvas",
+    "Játék/Karakterek/Skillfák/Kész/Mágiafák/Mágikus hatás.canvas",
+    "Játék/Karakterek/Skillfák/Kész",
+    "Játék/Karakterek/Skillfák/Tervezésalatt",
+    "Játék/Karakterek/Közös Játékmechanikák/Tárhely.md",
+    "Játék/Teszt",
+    "Játék/Karakterek/Közös Játékmechanikák/Előnyök és hátrányok.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Sebzés és Halál.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Dobások.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Státuszhatások.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Stresszes események.md",
+    "Játék/Karakterek/Osztályok/Természetfelettiek (Osztály).md",
     "Játék/Karakterek/Osztályok/Mágusok (Osztály).md",
-    "Játék/Karakterek/Skillfák",
-    "Játék/Karakterek/Közös Játékmechanikák",
-    "Játék/Karakterek/Karakterértékek.md",
+    "Játék/Karakterek/Közös Játékmechanikák/Pénzérték.md",
+    "Játék/Karakterek/Skillfák/Tudásfák/Tulélés.canvas",
+    "Játék/Karakterek/Skillfák/Tervezésalatt/Szociális készségfák/Etikett.canvas",
+    "Játék/Karakterek/Skillfák/Tervezésalatt/Szociális készségfák/Diplomácia.canvas",
+    "Játék/Karakterek/Skillfák/Tervezésalatt/!Példák",
+    "Világ/Mágia/Varázskörök.md",
     "Világ/Osztályok/Mágusok.md",
-    "Világ/Rageus.md",
-    "Világ/Kristályok/Kristály.md",
-    "Játék/Karakterek/Skillfák/Fegyverfa.canvas",
-    "Játék/Karakterek/Osztályok/Elemi mágiafa.md",
-    "Játék/Karakterek/Osztályok",
-    "Világ/Kristályok/Energia.md",
-    "Játék/Karakterek",
-    "Játék",
-    "_debug_remotely_save/sync_plans_hist_exported_on_1686395193679.md",
-    "_debug_remotely_save/sync_plans_hist_exported_on_1686395190080.md",
-    "_debug_remotely_save",
-    "Világ/Kristályok/Tér és Idő.md",
-    "Világ/Kristályok/Szél.md",
-    "Világ/Osztályok/Természetfeletti.md",
-    "Világ/Osztályok/Szakértő.md",
-    "Világ/Képek/Tér és Idő kristály.png",
-    "Világ/Osztályok",
+    "Játék/Karakterek/Közös Játékmechanikák/Mozgás.md",
+    "Világ/Mágia/Fonal.md",
+    "Világ/Tárgyak/Ásványok/Trianát.md",
+    "Világ/Tárgyak/Alapanyagok",
+    "Világ/Tárgyak/Ásványok",
+    "Világ/Tárgyak/Növények",
+    "Világ/Tárgyak",
     "Világ/Képek/Elektromosság kristály.png",
+    "Világ/Képek/Rageus (Kívűlről).png",
+    "Világ/Képek/Föld kristály.png",
     "Világ/Képek/Élet kristály.png",
+    "Világ/Képek/Tér és Idő kristály.png",
     "Világ/Képek/Tűz kristály.png",
     "Világ/Képek/Jég kristály.png",
-    "Világ/Képek/Föld kristály.png",
-    "Világ/Kristályok/Élet.md",
-    "Világ/Kristályok/Elektromosság.md",
-    "Világ/Kristályok/Föld.md",
-    "Világ/Kristályok/Jég.md",
-    "Világ/Kristályok/Víz.md",
     "Világ/Képek/Víz kristály.png",
-    "Világ/Kristályok/Tűz.md",
-    "Világ/Képek/Szél kristály.png",
-    "2023-06-10.md",
-    "Untitled.canvas",
-    "Világ/Képek",
-    "Világ/Kristályok",
-    "Világ/Képek/Rageus (Kívűlről).png",
-    "World/Untitled"
+    "Világ/Képek/Szél kristály.png"
   ]
 }

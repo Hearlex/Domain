@@ -1,0 +1,1 @@
+Egy speciális ásvány. Gyakran készülnek belőlük edények vagy eszközök. Képessége, hogy a manát hosszú távon megőrzi és fokozatosan leadja magából, valamint közben a megfelelő nyomás és hőmérséklet is kialakul a kristályok olvadásához a Trianátból készült edényekben.

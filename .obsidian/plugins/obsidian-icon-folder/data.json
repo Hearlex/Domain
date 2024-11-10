@@ -1,19 +1,88 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "TiSalt",
+      "LiFlower2",
+      "TiDiamond",
+      "FasWeightHanging",
+      "TiKeyframeAlignVertical"
+    ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "FarHourglass",
+        "rule": "Világ/Korok\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "SiNodemon",
+        "rule": "Világ/Fajok\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "icon": "SiCrystal",
+        "rule": "Világ/Kristályok\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
-  }
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Világ": "FasEarthAsia",
+  "Világ/Képek": "FarImage",
+  "Világ/Kristályok/Elektromosság.md": "IbLightning",
+  "Világ/Osztályok": "FasHatWizard",
+  "Világ/Osztályok/Mágusok.md": "FasHatWizard",
+  "Világ/Osztályok/Szakértő.md": "LiSword",
+  "Világ/Osztályok/Szellemidézők, használók.md": "TiGhost2Filled",
+  "Világ/Osztályok/Természetfeletti.md": "FabSuperpowers",
+  "Világ/Rageus.md": "TiPlanet",
+  "Világ/Mágia": "SiCodemagic",
+  "Világ/Mágia/Varázskörök.md": "SiCircle",
+  "Világ/Mágia/Mágia képe.md": "TiCircuitDiodeZener",
+  "Világ/Mágia/Mágia formái.md": "FasWandMagicSparkles",
+  "Világ/Mágia/Fonal.md": "TiTopologyStarRing2",
+  "Világ/Kristályok/Tűz.md": "SiFireship",
+  "Világ/Kristályok/Víz.md": "FasWater",
+  "Világ/Kristályok/Tér és Idő.md": "LiHourglass",
+  "Világ/Kristályok/Szél.md": "LiWind",
+  "Világ/Kristályok/Jég.md": "LiSnowflake",
+  "Világ/Kristályok/Föld.md": "LiMountain",
+  "Világ/Kristályok/Élet.md": "RiExchangeFundsLine",
+  "Világ/Mágia/Hatások": "TiLayersDifference",
+  "Világ/Mágia/Mágikusnyelvelemek": "TiKeyframeAlignVertical",
+  "Világ/Tárgyak": "FasWeightHanging",
+  "Világ/Tárgyak/Ásványok": "TiDiamond",
+  "Világ/Tárgyak/Növények": "LiFlower2",
+  "Világ/Tárgyak/Alapanyagok": "TiSalt",
+  "Világ/Kristályok": "SiCrystal",
+  "Világ/Fajok": "SiNodemon",
+  "Világ/Korok": "FasHourglassEmpty"
 }

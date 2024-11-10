@@ -1,0 +1,5 @@
+Minden lénycsoport rendelkezik egy evolúciós gráffal. Az evolúciós gráfok a fajoknak különböző átalakulását mutatja. Egy fajhoz tartozó egyed általában születésekor kerül a gráf valamelyik állapotára és onnan csak ritkán mozdul másik állapotra.
+
+Példa erre, amikor a [[III. Kor]] néhány törpéje úgy döntött visszatér a régi szokásokhoz és a kőhegyek és lávák között edzi meg magát, valamint szénnel táplálkoznak. Ilyenkor sokan hosszú hónapok/évek alatt átváltoztak kőtörpe formájukba. Bőrükről a szőr hullani kezdett, és repedések keletkeztek rajtuk. Testük kemény lett mint a gyémánt. Szemükből pedig izzó láva kezdett világítani.
+
+Ami minden Evolúciós gráfban megegyezik, az embereknél pedig ez többször is előfordul minden affinitás irányába, az a vadság <-> emberség egyenese. Azaz minden lény rendelkezik egy vadabb de erősebb iránnyal. Illetve egy gyengébb, de alkalmazkodóbb, intelligensebb és közösségben élő alfajjá.
