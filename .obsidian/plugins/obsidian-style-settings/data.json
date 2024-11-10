@@ -1,7 +1,8 @@
 {
   "fancy-a-story@@status-bar-position": "fas-status-bar-ribbon",
-  "fancy-a-story@@fas-bookmark-tabs": "disable",
+  "fancy-a-story@@fas-bookmark-tabs": "volume",
   "fancy-a-story@@fas-sidebar-texture-custom": false,
   "fancy-a-story@@fas-highlight-active-note": true,
-  "fancy-a-story@@theme-variant-dark": "fas-swamp"
+  "fancy-a-story@@theme-variant-dark": "fas-swamp",
+  "fancy-a-story@@fas-opposite-bg": false
 }

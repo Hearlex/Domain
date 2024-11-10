@@ -55,33 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Játék/Szabályok/Skillfák/Skillek/Hajítás.md",
+                "file": "01 - Játék/Szabályok/Skillfák/Skillek/Hajítás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Hajítás"
             }
-          },
-          {
-            "id": "e8f0170c09e715ac",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Játék/Karakterek/Skillfák/Kész/Képesség/Hajítás.canvas",
-                "viewState": {
-                  "x": -25,
-                  "y": -151.86167512690352,
-                  "zoom": -0.3451744393796175
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Hajítás"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,9 +181,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "01 - Játék/Szabályok/Skillfák/Skillek/Hajítás.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hajítás"
             }
           },
           {
@@ -252,62 +237,62 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "728867869c324a7f",
+  "active": "268360ef119ee6ae",
   "lastOpenFiles": [
-    "Világ/Kristályok/Elektromosság.md",
-    "Világ/Korok/II. Kor.md",
-    "Világ/Korok/I. Kor.md",
-    "Játék/Szabályok/Osztályok/Szellemidézők (Osztály).md",
-    "Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
-    "Játék/Szabályok/Osztályok/Természetfelettiek (Osztály).md",
-    "Játék/Szabályok/Osztályok/Szakértők (Osztály).md",
-    "Játék/Szabályok/Osztályok/Mágusok (Osztály).md",
-    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Elsőrendű varázslatok.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
-    "Játék/Szabályok/Fajok/Emberek (Faj).md",
-    "Játék/Szabályok/Skillfák/Skillek/Hajítás.md",
-    "Játék/Teszt/Gregor Terbinger.md",
-    "Játék/Szabályok/Skillfák/Kész/Képesség",
-    "Játék/Szabályok/Skillfák/Kész/Képesség/Hajítás.canvas",
-    "Játék/Szabályok/Skillfák/Skillek",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/!Példák/Képesség.canvas",
-    "Játék/Szabályok/Skillfák/Kész/Tudás.canvas",
-    "Világ/Mágia/Mágia formái.md",
-    "Játék/Szabályok/Skillfák/Kész/Mágiafák/Elemi mágiafa.canvas",
+    "01 - Játék/Szabályok/Skillfák/Skillek/Hajítás.md",
+    "00 - Világ/Kristályok/Elektromosság.md",
+    "00 - Világ/Korok/II. Kor.md",
+    "00 - Világ/Korok/I. Kor.md",
+    "01 - Játék/Szabályok/Osztályok/Szellemidézők (Osztály).md",
+    "01 - Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
+    "01 - Játék/Szabályok/Osztályok/Természetfelettiek (Osztály).md",
+    "01 - Játék/Szabályok/Osztályok/Szakértők (Osztály).md",
+    "01 - Játék/Szabályok/Osztályok/Mágusok (Osztály).md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Elsőrendű varázslatok.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
+    "01 - Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+    "01 - Játék/Szabályok/Fajok/Emberek (Faj).md",
+    "01 - Játék/Teszt/Gregor Terbinger.md",
+    "01 - Játék/Szabályok/Skillfák/Kész/Képesség",
+    "01 - Játék/Szabályok/Skillfák/Kész/Képesség/Hajítás.canvas",
+    "01 - Játék/Szabályok/Skillfák/Skillek",
+    "01 - Játék/Szabályok/Skillfák/Tervezésalatt/!Példák/Képesség.canvas",
+    "01 - Játék/Szabályok/Skillfák/Kész/Tudás.canvas",
+    "00 - Világ/Mágia/Mágia formái.md",
+    "01 - Játék/Szabályok/Skillfák/Kész/Mágiafák/Elemi mágiafa.canvas",
     "Játék/Karakterek/Skillfák/Tervezésalatt/Természetfeletti fák/Természetfeletti képességfa.canvas",
-    "Játék/Szabályok/Skillfák/Kész/Mágiafák/Mágikus hatás.canvas",
-    "Játék/Szabályok/Skillfák/Kész",
-    "Játék/Szabályok/Skillfák/Tervezésalatt",
-    "Játék/Teszt",
+    "01 - Játék/Szabályok/Skillfák/Kész/Mágiafák/Mágikus hatás.canvas",
+    "01 - Játék/Szabályok/Skillfák/Kész",
+    "01 - Játék/Szabályok/Skillfák/Tervezésalatt",
+    "01 - Játék/Teszt",
     "Játék/Karakterek/Skillfák/Tudásfák/Tulélés.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Etikett.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Diplomácia.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/!Példák",
-    "Világ/Mágia/Varázskörök.md",
-    "Világ/Osztályok/Mágusok.md",
-    "Világ/Tárgyak/Alapanyagok",
-    "Világ/Tárgyak/Ásványok",
-    "Világ/Tárgyak/Növények",
-    "Világ/Tárgyak",
-    "Világ/Képek/Elektromosság kristály.png",
-    "Világ/Képek/Rageus (Kívűlről).png",
-    "Világ/Képek/Föld kristály.png",
-    "Világ/Képek/Élet kristály.png",
-    "Világ/Képek/Tér és Idő kristály.png",
-    "Világ/Képek/Tűz kristály.png",
-    "Világ/Képek/Jég kristály.png",
-    "Világ/Képek/Víz kristály.png",
-    "Világ/Képek/Szél kristály.png"
+    "01 - Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Etikett.canvas",
+    "01 - Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Diplomácia.canvas",
+    "01 - Játék/Szabályok/Skillfák/Tervezésalatt/!Példák",
+    "00 - Világ/Mágia/Varázskörök.md",
+    "00 - Világ/Osztályok/Mágusok.md",
+    "00 - Világ/Tárgyak/Alapanyagok",
+    "00 - Világ/Tárgyak/Ásványok",
+    "00 - Világ/Tárgyak/Növények",
+    "00 - Világ/Tárgyak",
+    "00 - Világ/Képek/Elektromosság kristály.png",
+    "00 - Világ/Képek/Rageus (Kívűlről).png",
+    "00 - Világ/Képek/Föld kristály.png",
+    "00 - Világ/Képek/Élet kristály.png",
+    "00 - Világ/Képek/Tér és Idő kristály.png",
+    "00 - Világ/Képek/Tűz kristály.png",
+    "00 - Világ/Képek/Jég kristály.png",
+    "00 - Világ/Képek/Víz kristály.png",
+    "00 - Világ/Képek/Szél kristály.png"
   ]
 }
