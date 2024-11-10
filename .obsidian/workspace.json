@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Karakterértékek"
+              "title": "Tárhely"
             }
           },
           {
@@ -50,8 +50,23 @@
               "icon": "lucide-file",
               "title": "Dobások"
             }
+          },
+          {
+            "id": "a32aef8a4a75a238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Szabályok/Fajok/Ember.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ember"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Játék/Tárgyak/Fegyverek.md"
+                "file": "Játék/Szabályok/Fajok/Ember.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fegyverek"
+              "title": "Outline of Ember"
             }
           },
           {
@@ -223,11 +238,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "817e28efdceea377",
+  "active": "be1a5f92845c6723",
   "lastOpenFiles": [
-    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Tárgyak/Fegyverek.md",
     "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+    "Játék/Tárgyak/Fegyverek.md",
+    "Játék/Tárgyak/Védőfelszerelések.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
     "Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
     "Játék/Tárgyak",
     "2024-11-10.md",
@@ -238,7 +258,6 @@
     "Játék/Szabályok/Osztályok/Mágus.md",
     "Játék/Szabályok/Osztályok/Természetfeletti.md",
     "Játék/Szabályok/Osztályok/Szakértő.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
     "Játék/Teszt/Gregor Terbinger.md",
     "Világ/Osztályok/Természetfelettiek.md",
     "Játék/Szabályok/Fajok/Ember.md",
@@ -265,12 +284,8 @@
     "Játék/Szabályok/Skillfák/Skillek",
     "Játék/Szabályok/Skillfák/Tervezésalatt",
     "Játék/Szabályok/Skillfák/Kész",
-    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
     "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
     "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
     "Világ/Képek/Elektromosság kristály.png",
     "Világ/Képek/Rageus (Kívűlről).png",
     "Világ/Képek/Föld kristály.png",

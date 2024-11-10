@@ -19,7 +19,7 @@ A karakterek alapértelmezetten a következő statokkal/skillekkel kezdenek. Ami
 - **Luck** - Szerencse. Amennyiben a karakteren kívül álló cselekmény történik, a szerencse befolyásolja azt. (+- a dobáshoz)
 
 **Fogyasztható / limit értékek:**
-- **Health Point (HP)** - A karakterek jelenlegi / maximum élete. A maximum élet alapértelmezetten fajtól függ, általában 100 közeli. A TGH score 10 életet ad minden értékért. Az élet alapértelmezetten nem töltődik vissza.
+- **Health Point (HP)** - A karakterek jelenlegi / maximum élete. A maximum élet alapértelmezetten fajtól függ, általában 25 közeli. A TGH score 5 életet ad minden értékért. Az élet alapértelmezetten nem töltődik vissza.
 - **Mana Point (MP)** - Egységnyi mana, egy apró kristály használatára elegendő. Azaz egyetlen hatás végrehajtására. A karakterek manája szinttől, fajtól és osztálytól eltérő lehet. A Mágusok saját manaként használják, szellemidézők a környezet energiájaként amit hasznosítani tudnak, a természetfelettiek pedig a saját képességük költségeként. Alapértelmezetten akiknél jelen van 100-tól indul, a mana alapértelmezetten nem töltődik vissza.
 - **Weight Limit** - Megadja mennyit cipelhet a karakter. Ezenfelül egyszerűen nem képes elbírni a tárgyat/tárgyakat. Több infó: [[Tárhely]]
 - **Armor Point (AP)** - A pajzsok és páncélok hordásával növelhető,  alapértelmezetten 0. Minden damageből AP mennyiséget csökkenthet a karakter (ezt leveszi az APból), körönként visszakapja. Armor semlegesíthető *Armor Penetration* módosító által. Számolásnál az AP a jelenlegi értéket jelenti.
