@@ -7,7 +7,7 @@ Az elektromos áram a világ legtöbb részén ritka dolog. Csak az Elektromoss�
 	- Telepatikus képességek.
 	- Villámmanipuláció
 	- Mágneses alkalmazás
-	- Kémiai reakciók megidézése
+	- Energia manipuláció
 
 Főbb erők: Telepatikus és elektromos képességek
 Tudományos felhasználás: Szerkezeti változás az elektronban

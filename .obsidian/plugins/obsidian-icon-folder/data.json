@@ -53,7 +53,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "Világ": "FasEarthAsia",
   "Világ/Fajok": "SiNodemon",
@@ -78,8 +79,6 @@
   "Világ/Mágia/Hatások": "TiLayersDifference",
   "Világ/Mágia/Mágia formái.md": "FasWandMagicSparkles",
   "Világ/Mágia/Mágia képe.md": "TiCircuitDiodeZener",
-  "Világ/Mágia/Varázskörök.md": "SiCircle",
-  "Világ/Mágia/Mágikusnyelvelemek": "TiKeyframeAlignVertical",
   "Világ/Tárgyak/Alapanyagok": "TiSalt",
   "Világ/Tárgyak/Ásványok": "TiDiamond",
   "Világ/Tárgyak/Növények": "LiFlower2",
@@ -89,5 +88,6 @@
   "Világ/Osztályok/Természetfelettiek.md": "FabSuperpowers",
   "Játék/Szabályok/Osztályok/Szellemidéző.md": "TiGhost2Filled",
   "Játék/Szabályok/Osztályok/Természetfeletti.md": "FabSuperpowers",
-  "Játék/Szabályok/Osztályok/Mágus.md": "FasHatWizard"
+  "Játék/Szabályok/Osztályok/Mágus.md": "FasHatWizard",
+  "Világ/Mágia/Varázslat és varázskörök.md": "SiCircle"
 }

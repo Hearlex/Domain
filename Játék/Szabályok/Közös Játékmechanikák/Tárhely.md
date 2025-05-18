@@ -1,5 +1,5 @@
 Minden karakter rendelkezhet holmikkal és felszerelésekkel. Alapértelmezetten amit a játékos magán hord, vagy ami a kezében van az nem számít bele a terhelési kapacitásába. 
-Alapértelmezetten minden karakter csak annyi cipőt, lábvédőt, mellvértet és karvédőt és kesztyűt és sisakot hordhat amennyi valós ilyen testrésszel rendelkezik.
+Alapértelmezetten minden karakter csak annyi cipőt, lábvédőt, mellvértet, karvédőt, kesztyűt és sisakot hordhat amennyi valós ilyen testrésszel rendelkezik.
 Ha egy páncél például túl nehéz, az különben is rendelkezik STR követelménnyel.
 
 Viszont az egyéb holmikat sajnos csak táskák vagy mágikus itemek segítségével lehet eltárolni, ideértve az éppen nem használt fegyvereket is. Azért, hogy a súly és tárhely számolás ne legyen túl nehéz, ebben a játékban egy rácsrendszert használunk. Minden táska rendelkezik egy rakodótérrel ami két dimenzióban van meghatározva, például 5x10, azaz 5 sor 10 oszlopos táska. Ami egyébként nem túl nagy.

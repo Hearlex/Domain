@@ -24,7 +24,23 @@
             }
           },
           {
-            "id": "ad854973f4d6a31b",
+            "id": "7121cf8d67ff5ce4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Karakterértékek"
+            }
+          },
+          {
+            "id": "0f6b42d5c468b8c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,35 +54,31 @@
             }
           },
           {
-            "id": "b23e12ecd4588ab8",
+            "id": "2de3a0c42d3ff193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
+                "file": "Játék/Szabályok/Osztályok/Mágus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dobások"
+              "title": "Mágus"
             }
           },
           {
-            "id": "a32aef8a4a75a238",
+            "id": "4a2f56dddf268540",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Szabályok/Fajok/Ember.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ember"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,14 +197,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Játék/Szabályok/Fajok/Ember.md"
+                "file": "Világ/Mágia/Hatások/Támogatás.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ember"
+              "title": "Outline of Támogatás"
             }
           },
           {
-            "id": "1ac2f922c04ce798",
+            "id": "08e9fa40dd2c3fbe",
             "type": "leaf",
             "state": {
               "type": "QUICKSHARE_SIDE_VIEW",
@@ -201,17 +214,7 @@
             }
           },
           {
-            "id": "0433322379349ccd",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "be1a5f92845c6723",
+            "id": "acf33b75718d6c93",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -221,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -238,33 +241,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be1a5f92845c6723",
+  "active": "4a2f56dddf268540",
   "lastOpenFiles": [
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-    "Játék/Tárgyak/Fegyverek.md",
-    "Játék/Tárgyak/Védőfelszerelések.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
-    "Játék/Tárgyak",
-    "2024-11-10.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
-    "Világ/Rageus.md",
+    "Játék/Szabályok/Osztályok/Szakértő.md",
+    "Játék/Szabályok/Osztályok/Természetfeletti.md",
     "Játék/Szabályok/Osztályok/Szellemidéző.md",
     "Játék/Szabályok/Osztályok/Mágus.md",
-    "Játék/Szabályok/Osztályok/Természetfeletti.md",
-    "Játék/Szabályok/Osztályok/Szakértő.md",
-    "Játék/Teszt/Gregor Terbinger.md",
-    "Világ/Osztályok/Természetfelettiek.md",
-    "Játék/Szabályok/Fajok/Ember.md",
+    "Világ/Mágia/Mágia formái.md",
+    "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
+    "Játék/Tárgyak/Fegyverek.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
     "Világ/Mágia/Mágia képe.md",
     "Világ/Mágia/Fonal.md",
+    "Világ/Mágia/Hatások/Kibocsátás.md",
+    "Világ/Mágia/Hatások/Alakítás.md",
+    "Világ/Mágia/Varázslat és varázskörök.md",
     "Világ/Tárgyak/Ásványok/Trianát.md",
-    "01 - Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
+    "Világ/Mágia/Hatások/Mozgás.md",
+    "Világ/Mágia/Hatások/Korlát.md",
+    "Világ/Mágia/Hatások/Érzékelés.md",
+    "Világ/Mágia/Hatások/Erősítés - Gyengítés.md",
+    "Világ/Mágia/Hatások/Bűvölés.md",
+    "Világ/Mágia/Hatások/Korábbi Tervek",
+    "Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
+    "Világ/Mágia/Hatások/Képek/objectmanipulation.png",
+    "Világ/Mágia/Hatások/Képek/enchantment.png",
+    "Világ/Mágia/Hatások/Képek/support.png",
+    "Világ/Mágia/Hatások/Képek/creation.png",
+    "Világ/Mágia/Hatások/Képek/cancel.png",
+    "Világ/Mágia/Hatások/Képek/body.png",
+    "Világ/Mágia/Hatások/Képek/weapon.png",
+    "Világ/Mágia/Hatások/Képek/self.png",
+    "Világ/Mágia/Hatások/Képek/reality.png",
+    "Világ/Mágia/Hatások/Képek/sense.png",
+    "Világ/Mágia/Hatások/Képek",
+    "Játék/Szabályok/Varázslás",
+    "Játék/Tárgyak",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Nyelv.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Kereskedelem.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Irás és Olvasás.canvas",
@@ -276,24 +295,9 @@
     "Játék/Szabályok/Skillfák/Kész/Képesség/Hajítás.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Mesterségek",
-    "Játék/Szabályok/Skillfák/Skillek/Hajítás.md",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Fizikai készségfák",
     "Játék/Szabályok/Skillfák/Tervezésalatt/!Példák",
     "Játék/Szabályok/Skillfák/Kész/Mágiafák",
-    "Játék/Szabályok/Skillfák/Kész/Képesség",
-    "Játék/Szabályok/Skillfák/Skillek",
-    "Játék/Szabályok/Skillfák/Tervezésalatt",
-    "Játék/Szabályok/Skillfák/Kész",
-    "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
-    "Világ/Képek/Elektromosság kristály.png",
-    "Világ/Képek/Rageus (Kívűlről).png",
-    "Világ/Képek/Föld kristály.png",
-    "Világ/Képek/Élet kristály.png",
-    "Világ/Képek/Tér és Idő kristály.png",
-    "Világ/Képek/Tűz kristály.png",
-    "Világ/Képek/Jég kristály.png",
-    "Világ/Képek/Víz kristály.png",
-    "Világ/Képek/Szél kristály.png"
+    "Játék/Szabályok/Skillfák/Kész/Képesség"
   ]
 }
