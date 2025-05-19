@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a853c2f17f245cf9","type":"text","text":"Pajzsütés (1 pont)","x":-700,"y":30,"width":250,"height":60},
+		{"id":"b422eb18a932376e","type":"text","text":"Pajzs Védekezés (2 pont)","x":-700,"y":135,"width":250,"height":60},
+		{"id":"f5c5c9ea20a0d8ee","type":"text","text":"Haladó Pajzs Technika (3 pont)","x":-700,"y":240,"width":250,"height":60},
+		{"id":"dec0b70a65d8b20e","type":"text","text":"Alap Pajzs Használat\n(1 pont, Kezdőpont)","x":-375,"y":30,"width":250,"height":60},
+		{"id":"c9d16df40c1e4d8b","type":"text","text":"Nehéz Páncél Viselés (3 pont)","x":-40,"y":-200,"width":250,"height":60},
+		{"id":"0d312e676008bdc9","type":"text","text":"Közepes Páncél Viselés (2 pont)","x":-40,"y":-80,"width":250,"height":60},
+		{"id":"be81443f776efc87","type":"text","text":"Könnyű Páncél Viselés (1 pont, Kezdőpont)","x":-40,"y":30,"width":250,"height":60},
+		{"id":"ba76ad45cb7b4c75","type":"text","text":"Páncél Specializáció\n(3 pont, többször felvehető)","x":-40,"y":150,"width":250,"height":90},
+		{"id":"99251e4eaff63828","type":"text","text":"Páncélos Állóképesség (1 pont)","x":210,"y":90,"width":250,"height":60},
+		{"id":"8b4194b5a1f646d8","type":"text","text":"Harci Páncélmozgás (2 pont)","x":285,"y":-200,"width":250,"height":60},
+		{"id":"0e7165f3d84b8fd1","x":-525,"y":-400,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Páncél & Pajzsmesterség.md"}
+	],
+	"edges":[
+		{"id":"15b469025cc9cc78","fromNode":"be81443f776efc87","fromSide":"top","toNode":"0d312e676008bdc9","toSide":"bottom"},
+		{"id":"495b727cc44dd92b","fromNode":"be81443f776efc87","fromSide":"right","toNode":"99251e4eaff63828","toSide":"top"},
+		{"id":"cd72f4a408139bf9","fromNode":"0d312e676008bdc9","fromSide":"top","toNode":"c9d16df40c1e4d8b","toSide":"bottom"},
+		{"id":"6761f2712d2dcf53","fromNode":"c9d16df40c1e4d8b","fromSide":"right","toNode":"8b4194b5a1f646d8","toSide":"left"},
+		{"id":"802cf8491bcf08bd","fromNode":"be81443f776efc87","fromSide":"bottom","toNode":"ba76ad45cb7b4c75","toSide":"top"},
+		{"id":"930e9a999940cd1f","fromNode":"dec0b70a65d8b20e","fromSide":"left","toNode":"a853c2f17f245cf9","toSide":"right"},
+		{"id":"1b83450a5e581176","fromNode":"dec0b70a65d8b20e","fromSide":"bottom","toNode":"b422eb18a932376e","toSide":"right"},
+		{"id":"a630b8b532ed3c8b","fromNode":"b422eb18a932376e","fromSide":"bottom","toNode":"f5c5c9ea20a0d8ee","toSide":"top"}
+	]
+}

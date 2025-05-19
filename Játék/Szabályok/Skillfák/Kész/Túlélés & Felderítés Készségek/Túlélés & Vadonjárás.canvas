@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"a28bac1be8a807ba","x":20,"y":-300,"width":250,"height":60,"type":"text","text":"Alapvető Tájékozódás (1 pont, kezdőpont)"},
+		{"id":"33693f4e560efbb4","x":-140,"y":-200,"width":250,"height":60,"type":"text","text":"Vészhelyzeti Tűz & Menedék (1 pont, kezdőpont)"},
+		{"id":"22c43fd8a089954e","x":20,"y":-440,"width":250,"height":100,"type":"text","text":"Nyomolvasás & Rejtőzködés (Vadon) (2 pont)"},
+		{"id":"ea2b03ce1ef7a3da","x":-265,"y":-80,"width":250,"height":60,"type":"text","text":"Ellenálló Menedék (2 pont)"},
+		{"id":"9036f05608dba4fb","x":180,"y":-200,"width":250,"height":60,"type":"text","text":"Vadon Forrásai (1 pont, kezdőpont)"},
+		{"id":"a88d73428acf4827","x":305,"y":-80,"width":250,"height":60,"type":"text","text":"Gyűjtögetés & Vadászat (2 pont)"},
+		{"id":"a124b4911f2fd04e","x":430,"y":40,"width":250,"height":100,"type":"text","text":"Vadon Ismerete (Növények & Állatok) (3 pont)"},
+		{"id":"b72f0925d0b29e18","x":-390,"y":40,"width":250,"height":60,"type":"text","text":"Időjárás Érzék (3 pont)"},
+		{"id":"5b93d7fa46067f4d","x":-300,"y":-420,"width":250,"height":60,"type":"text","text":"Mester Tájékozódás (5 pont)"},
+		{"id":"681e03c2117098ff","x":-390,"y":160,"width":250,"height":60,"type":"text","text":"Gyors Menedék Építés (6 pont)"},
+		{"id":"973f9f6d56efe508","x":430,"y":160,"width":250,"height":60,"type":"text","text":"Vadon Orvoslása (5 pont)"},
+		{"id":"79a5fca8a3123f37","x":20,"y":-600,"width":250,"height":60,"type":"text","text":"Extrém Túlélő (8 pont)"},
+		{"id":"2b8b3bab2b0d3937","x":340,"y":-420,"width":250,"height":60,"type":"text","text":"Stresszmentes Utazás (4 pont)"},
+		{"id":"f26eab76e3bd563d","x":-55,"y":20,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Túlélés & Vadonjárás.md"}
+	],
+	"edges":[
+		{"id":"cb6319e607dacf0c","fromNode":"a28bac1be8a807ba","fromSide":"top","toNode":"22c43fd8a089954e","toSide":"bottom"},
+		{"id":"ee0fc4706afe06f2","fromNode":"33693f4e560efbb4","fromSide":"bottom","toNode":"ea2b03ce1ef7a3da","toSide":"top"},
+		{"id":"b47e5ddca182fcec","fromNode":"9036f05608dba4fb","fromSide":"bottom","toNode":"a88d73428acf4827","toSide":"top"},
+		{"id":"92462268f74d498b","fromNode":"a88d73428acf4827","fromSide":"bottom","toNode":"a124b4911f2fd04e","toSide":"top"},
+		{"id":"1088378177ba200e","fromNode":"ea2b03ce1ef7a3da","fromSide":"bottom","toNode":"b72f0925d0b29e18","toSide":"top"},
+		{"id":"1863b742b3138201","fromNode":"a124b4911f2fd04e","fromSide":"right","toNode":"2b8b3bab2b0d3937","toSide":"right","fromEnd":"arrow"},
+		{"id":"147f1cd095678006","fromNode":"22c43fd8a089954e","fromSide":"right","toNode":"2b8b3bab2b0d3937","toSide":"left","fromEnd":"arrow"},
+		{"id":"e4bab1954e4fc47a","fromNode":"22c43fd8a089954e","fromSide":"left","toNode":"5b93d7fa46067f4d","toSide":"right"},
+		{"id":"a442192ef51d18cc","fromNode":"b72f0925d0b29e18","fromSide":"bottom","toNode":"681e03c2117098ff","toSide":"top"},
+		{"id":"984f1578038dae47","fromNode":"a124b4911f2fd04e","fromSide":"bottom","toNode":"973f9f6d56efe508","toSide":"top"},
+		{"id":"4fd23d2c3af6c1a4","fromNode":"5b93d7fa46067f4d","fromSide":"top","toNode":"79a5fca8a3123f37","toSide":"left"},
+		{"id":"dd63febc585ec090","fromNode":"2b8b3bab2b0d3937","fromSide":"top","toNode":"79a5fca8a3123f37","toSide":"right"}
+	]
+}

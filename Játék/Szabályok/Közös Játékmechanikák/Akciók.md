@@ -32,5 +32,5 @@ A karakterek minden órát amit pihenéssel töltenek felhasználhatnak az aláb
 **Hosszú pihenés**
 A hosszú pihenés minimum 8 órát igényel. A következő hatásokat adja egy hosszú pihenés:
 - A HP maximumra visszatöltődik.
-- Az MP maximumra visszatöltődik.
 - A státuszhatások megszünnek (ami nem maradandó, GM dönt)
+- Elsőrendű varázslat cseréje (az összes varázslat kicserélhető)

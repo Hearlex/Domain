@@ -24,6 +24,22 @@
             }
           },
           {
+            "id": "926a726aa935cd64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Tárgyak/Védőfelszerelések.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Védőfelszerelések"
+            }
+          },
+          {
             "id": "7121cf8d67ff5ce4",
             "type": "leaf",
             "pinned": true,
@@ -40,35 +56,7 @@
             }
           },
           {
-            "id": "0f6b42d5c468b8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tárhely"
-            }
-          },
-          {
-            "id": "2de3a0c42d3ff193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Szabályok/Osztályok/Mágus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mágus"
-            }
-          },
-          {
-            "id": "4a2f56dddf268540",
+            "id": "24f986ce4c7e062c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -78,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,20 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Világ/Mágia/Hatások/Támogatás.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Támogatás"
-            }
-          },
-          {
-            "id": "08e9fa40dd2c3fbe",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {},
-              "icon": "cloud",
-              "title": "QuickShare"
+              "title": "Outline"
             }
           },
           {
@@ -224,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -241,36 +221,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a2f56dddf268540",
+  "active": "24f986ce4c7e062c",
   "lastOpenFiles": [
-    "Játék/Szabályok/Osztályok/Szakértő.md",
-    "Játék/Szabályok/Osztályok/Természetfeletti.md",
-    "Játék/Szabályok/Osztályok/Szellemidéző.md",
-    "Játék/Szabályok/Osztályok/Mágus.md",
-    "Világ/Mágia/Mágia formái.md",
-    "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
-    "Játék/Tárgyak/Fegyverek.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Nyelv.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Kereskedelem.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Irás és Olvasás.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Etikett.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Diplomácia.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mentális Kitartás & Fókusz.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mágikus & Spirituális Ismeretek.canvas",
+    "Játék/Szabályok/Skillfák/Kész/Mesterségek & Hivatások/Alkímia.canvas",
+    "Játék/Szabályok/Skillfák/Skillek/Alkímia.md",
+    "Játék/Szabályok/Skillfák/Kész/Mesterségek & Hivatások/Kovácsolás.canvas",
+    "Játék/Szabályok/Skillfák/Skillek/Kovácsolás.md",
+    "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek/Kereskedelem & Alkudozás.canvas",
+    "Játék/Szabályok/Skillfák/Skillek/Kereskedelem & Alkudozás.md",
+    "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek/Előadás & Karizma.canvas",
+    "Játék/Szabályok/Skillfák/Skillek/Előadás & Karizma.md",
+    "Játék/Szabályok/Skillfák/Skillek/Társadalmi & Kulturális Készségek.md",
+    "Játék/Szabályok/Skillfák/Skillek/Beszédmesterség.md",
     "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-    "Világ/Mágia/Mágia képe.md",
-    "Világ/Mágia/Fonal.md",
-    "Világ/Mágia/Hatások/Kibocsátás.md",
-    "Világ/Mágia/Hatások/Alakítás.md",
-    "Világ/Mágia/Varázslat és varázskörök.md",
-    "Világ/Tárgyak/Ásványok/Trianát.md",
-    "Világ/Mágia/Hatások/Mozgás.md",
-    "Világ/Mágia/Hatások/Korlát.md",
-    "Világ/Mágia/Hatások/Érzékelés.md",
-    "Világ/Mágia/Hatások/Erősítés - Gyengítés.md",
-    "Világ/Mágia/Hatások/Bűvölés.md",
+    "Játék/Szabályok/Skillfák/Skillek/Írás, Olvasás & Nyelvek.md",
+    "Játék/Szabályok/Skillfák/Skillek/Mentális Kitartás & Fókusz.md",
+    "Játék/Szabályok/Skillfák/Skillek/Mágikus & Spirituális Ismeretek.md",
+    "Világ/Osztályok/Szellemidézők, használók.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
+    "Játék/Szabályok/Skillfák/Skillek/Tanulmányok & Akadémia.md",
+    "Játék/Szabályok/Skillfák/Skillek/Csapdaállítás & Kezelés.md",
+    "Játék/Szabályok/Skillfák/Skillek/Megfigyelés & Nyomkeresés.md",
+    "Játék/Szabályok/Skillfák/Skillek/Túlélés & Vadonjárás.md",
+    "Játék/Szabályok/Skillfák/Skillek/Taktika & Harcászat.md",
+    "Játék/Szabályok/Skillfák/Skillek/Erőnlét & Állóképesség.md",
+    "Játék/Szabályok/Skillfák/Skillek/Rejtőzködés & Lopakodás.md",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Fizikai és Mozgás Készségek/Untitled.md",
+    "Játék/Szabályok/Skillfák/Skillek/Akrobatika & Kitérés.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
+    "Játék/Tárgyak/Fegyverek.md",
+    "Játék/Tárgyak/Védőfelszerelések.md",
+    "Játék/Szabályok/Skillfák/Kész/Mesterségek & Hivatások",
+    "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek",
+    "Játék/Szabályok/Skillfák/Kész/Tudás & Mentális Készségek",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek",
+    "Játék/Szabályok/Skillfák/Kész/Túlélés & Felderítés Készségek",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Túlélés & Felderítés Készségek",
+    "Játék/Szabályok/Skillfák/Kész/Harci Készségek",
+    "Játék/Szabályok/Skillfák/Kész/Fizikai és Mozgás Készségek",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Harci Készségek",
     "Világ/Mágia/Hatások/Korábbi Tervek",
-    "Játék/Szabályok/Skillfák/Kész/Fegyverfa.canvas",
     "Világ/Mágia/Hatások/Képek/objectmanipulation.png",
     "Világ/Mágia/Hatások/Képek/enchantment.png",
     "Világ/Mágia/Hatások/Képek/support.png",
@@ -280,24 +278,6 @@
     "Világ/Mágia/Hatások/Képek/weapon.png",
     "Világ/Mágia/Hatások/Képek/self.png",
     "Világ/Mágia/Hatások/Képek/reality.png",
-    "Világ/Mágia/Hatások/Képek/sense.png",
-    "Világ/Mágia/Hatások/Képek",
-    "Játék/Szabályok/Varázslás",
-    "Játék/Tárgyak",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Nyelv.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Kereskedelem.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Irás és Olvasás.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Etikett.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák/Diplomácia.canvas",
-    "Játék/Szabályok/Skillfák/Kész/Mágiafák/Mágikus hatás.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/!Példák/Képesség.canvas",
-    "Játék/Szabályok/Skillfák/Kész/Mágiafák/Elemi mágiafa.canvas",
-    "Játék/Szabályok/Skillfák/Kész/Képesség/Hajítás.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális készségfák",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Mesterségek",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Fizikai készségfák",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/!Példák",
-    "Játék/Szabályok/Skillfák/Kész/Mágiafák",
-    "Játék/Szabályok/Skillfák/Kész/Képesség"
+    "Világ/Mágia/Hatások/Képek/sense.png"
   ]
 }

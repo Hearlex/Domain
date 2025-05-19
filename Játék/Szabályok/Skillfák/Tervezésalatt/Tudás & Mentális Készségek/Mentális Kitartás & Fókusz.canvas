@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"f13eca165c6ce35d","x":-86,"y":-174,"width":250,"height":60,"type":"text","text":"Alap Mentális Fókusz (1 pont)"},
+		{"id":"1631cd41b103e951","x":-86,"y":-60,"width":250,"height":60,"type":"text","text":"Mentális Páncél (2 pont)"},
+		{"id":"2ad03e6f4927c244","x":-86,"y":-280,"width":250,"height":60,"type":"text","text":"Koncentráció Fenntartása (2 pont)"},
+		{"id":"04128e39b5ae9ca5","x":-400,"y":-174,"width":250,"height":60,"type":"text","text":"Stressz Tűrése (2 pont)"},
+		{"id":"557d4034de584a4d","x":240,"y":-84,"width":250,"height":108,"type":"text","text":"Illúziók & Átverések Elleni Ellenállás (3 pont)"},
+		{"id":"e50151dd185e69c2","x":-86,"y":40,"width":250,"height":100,"type":"text","text":"Befolyásolás & Manipuláció Elleni Ellenállás (3 pont)"},
+		{"id":"03fc69fa207cf631","x":-86,"y":-380,"width":250,"height":60,"type":"text","text":"Vasakarat (3 pont)"},
+		{"id":"94c3a3d1da6cb355","x":-720,"y":-174,"width":250,"height":60,"type":"text","text":"Higgadtság Stresszben (3 pont)"},
+		{"id":"0e8e5a97dc3c8ebf","x":-400,"y":-60,"width":250,"height":60,"type":"text","text":"Mester Mentális Páncél (5 pont)"},
+		{"id":"0b32958f4f3edb28","x":560,"y":-60,"width":250,"height":60,"type":"text","text":"Illúzió & Átverés Mester Ellenállás (5 pont)"},
+		{"id":"7fad6ad1cbbb0c43","x":-86,"y":180,"width":250,"height":100,"type":"text","text":"Befolyásolás & Manipuláció Mester Ellenállás (5 pont)"},
+		{"id":"c68653f3c11d7d30","x":-86,"y":-480,"width":250,"height":60,"type":"text","text":"Megingathatatlan Fókusz (5 pont)"},
+		{"id":"4c3f44f33a3c0555","x":-1040,"y":-174,"width":250,"height":60,"type":"text","text":"Stressz Mester Tűrés (5 pont)"},
+		{"id":"aaff5449fa29187e","x":-720,"y":-60,"width":250,"height":60,"type":"text","text":"Mentális Erőd (6 pont)"},
+		{"id":"3fc1dd8ca257904c","x":-86,"y":-580,"width":250,"height":60,"type":"text","text":"Tökéletes Koncentráció (6 pont)"},
+		{"id":"787668692feb6812","x":-1360,"y":-174,"width":250,"height":60,"type":"text","text":"Krízis Mester (6 pont)"},
+		{"id":"b7d70dc6add49c6e","x":-1040,"y":-380,"width":250,"height":60,"type":"text","text":"Elme Gyémántja (8 pont)"},
+		{"id":"b1cdd1199abe2099","x":240,"y":-580,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Mentális Kitartás & Fókusz.md"}
+	],
+	"edges":[
+		{"id":"1aac4d43afe86709","fromNode":"f13eca165c6ce35d","fromSide":"bottom","toNode":"1631cd41b103e951","toSide":"top"},
+		{"id":"d5bffac1edecd3ba","fromNode":"f13eca165c6ce35d","fromSide":"top","toNode":"2ad03e6f4927c244","toSide":"bottom"},
+		{"id":"3e960e24244b6eba","fromNode":"f13eca165c6ce35d","fromSide":"left","toNode":"04128e39b5ae9ca5","toSide":"right"},
+		{"id":"b07aa5cf8a3b39cc","fromNode":"1631cd41b103e951","fromSide":"right","toNode":"557d4034de584a4d","toSide":"left"},
+		{"id":"3a7ffd227026aa1d","fromNode":"1631cd41b103e951","fromSide":"bottom","toNode":"e50151dd185e69c2","toSide":"top"},
+		{"id":"6784138eb397e7b2","fromNode":"2ad03e6f4927c244","fromSide":"top","toNode":"03fc69fa207cf631","toSide":"bottom"},
+		{"id":"19ebc16a794a03a4","fromNode":"04128e39b5ae9ca5","fromSide":"left","toNode":"94c3a3d1da6cb355","toSide":"right"},
+		{"id":"aac79d6457a2b75e","fromNode":"1631cd41b103e951","fromSide":"left","toNode":"0e8e5a97dc3c8ebf","toSide":"right"},
+		{"id":"eb362c35fb7527b8","fromNode":"557d4034de584a4d","fromSide":"right","toNode":"0b32958f4f3edb28","toSide":"left"},
+		{"id":"2c218253edc546c1","fromNode":"e50151dd185e69c2","fromSide":"bottom","toNode":"7fad6ad1cbbb0c43","toSide":"top"},
+		{"id":"a456ce49c3b7d189","fromNode":"03fc69fa207cf631","fromSide":"top","toNode":"c68653f3c11d7d30","toSide":"bottom"},
+		{"id":"180c18805856060e","fromNode":"94c3a3d1da6cb355","fromSide":"left","toNode":"4c3f44f33a3c0555","toSide":"right"},
+		{"id":"a4ff4fa4dda3de80","fromNode":"0e8e5a97dc3c8ebf","fromSide":"left","toNode":"aaff5449fa29187e","toSide":"right"},
+		{"id":"9af31f775139fba4","fromNode":"c68653f3c11d7d30","fromSide":"top","toNode":"3fc1dd8ca257904c","toSide":"bottom"},
+		{"id":"5d43762331f8b1bf","fromNode":"4c3f44f33a3c0555","fromSide":"left","toNode":"787668692feb6812","toSide":"right"},
+		{"id":"d50f8998dbcfa654","fromNode":"aaff5449fa29187e","fromSide":"left","toNode":"b7d70dc6add49c6e","toSide":"bottom"},
+		{"id":"eccec3b762651457","fromNode":"787668692feb6812","fromSide":"top","toNode":"b7d70dc6add49c6e","toSide":"left"},
+		{"id":"5edb2d3cc3ad7750","fromNode":"3fc1dd8ca257904c","fromSide":"left","toNode":"b7d70dc6add49c6e","toSide":"right"}
+	]
+}

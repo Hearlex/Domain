@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"54ea30e5afafbc92","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Alap Akrobatika (1 pont, Kezdőpont)"},
+		{"id":"ab42288aeaa36bed","x":-125,"y":100,"width":250,"height":60,"type":"text","text":"Gyorsabb Futás (1 pont)"},
+		{"id":"eb80236732a93bf1","x":-125,"y":-160,"width":250,"height":60,"type":"text","text":"Fizikai Kitérés (2 pont)"},
+		{"id":"2496178b86804782","x":-440,"y":-30,"width":250,"height":60,"type":"text","text":"Navigáció (Terep) (1 pont)"},
+		{"id":"a6a1fde8cda6164a","x":200,"y":100,"width":250,"height":60,"type":"text","text":"Sprintelés (1 pont)"},
+		{"id":"fa36f9d9b50ba176","x":200,"y":-160,"width":250,"height":60,"type":"text","text":"Veszély Elkerülése (2 pont)"},
+		{"id":"4d879335e796ce7f","x":-440,"y":-160,"width":250,"height":60,"type":"text","text":"Harcban Kitérés (1 pont)"},
+		{"id":"de5a43eb47656736","x":-760,"y":-30,"width":250,"height":60,"type":"text","text":"Szédítő Magasságok / Mélységek (2 pont)"},
+		{"id":"0bf0e77629152ec2","x":-440,"y":100,"width":250,"height":60,"type":"text","text":"Szűk Helyek / Egyensúlyozás (1 pont)"},
+		{"id":"31ec17516b2e172d","x":200,"y":-280,"width":250,"height":60,"type":"text","text":"Akrobatikus Visszanyerés (1 pont)"},
+		{"id":"d94a4977cd6725ef","x":-440,"y":-280,"width":250,"height":60,"type":"text","text":"Akrobatikus Támadás / Manőver (3 pont)"},
+		{"id":"4f976102e9c50877","x":-760,"y":100,"width":250,"height":60,"type":"text","text":"Ügyes Átkelés (3 pont)"},
+		{"id":"78a968c93be0f710","x":-910,"y":-500,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Akrobatika & Kitérés.md"}
+	],
+	"edges":[
+		{"id":"2e167a24dbb8b801","fromNode":"54ea30e5afafbc92","fromSide":"bottom","toNode":"ab42288aeaa36bed","toSide":"top"},
+		{"id":"253f1ccad6f127d8","fromNode":"54ea30e5afafbc92","fromSide":"top","toNode":"eb80236732a93bf1","toSide":"bottom"},
+		{"id":"55741a7540b3ea60","fromNode":"54ea30e5afafbc92","fromSide":"left","toNode":"2496178b86804782","toSide":"right"},
+		{"id":"14c387b5c9b0cb0d","fromNode":"ab42288aeaa36bed","fromSide":"right","toNode":"a6a1fde8cda6164a","toSide":"left"},
+		{"id":"6d51b7998430cd63","fromNode":"eb80236732a93bf1","fromSide":"right","toNode":"fa36f9d9b50ba176","toSide":"left"},
+		{"id":"00c5f45ceed8c596","fromNode":"eb80236732a93bf1","fromSide":"left","toNode":"4d879335e796ce7f","toSide":"right"},
+		{"id":"58e168fd4f3a3216","fromNode":"2496178b86804782","fromSide":"left","toNode":"de5a43eb47656736","toSide":"right"},
+		{"id":"8d83f88a4000faa2","fromNode":"2496178b86804782","fromSide":"bottom","toNode":"0bf0e77629152ec2","toSide":"top"},
+		{"id":"7e967df3617c5992","fromNode":"fa36f9d9b50ba176","fromSide":"top","toNode":"31ec17516b2e172d","toSide":"bottom"},
+		{"id":"b40018ccf14eae8b","fromNode":"4d879335e796ce7f","fromSide":"top","toNode":"d94a4977cd6725ef","toSide":"bottom"},
+		{"id":"304e1143e330d08e","fromNode":"de5a43eb47656736","fromSide":"bottom","toNode":"4f976102e9c50877","toSide":"top","fromEnd":"arrow"},
+		{"id":"6cf9ef29ff7b37e4","fromNode":"0bf0e77629152ec2","fromSide":"left","toNode":"4f976102e9c50877","toSide":"right","fromEnd":"arrow"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"034ea52bb896d148","x":-47,"y":-180,"width":250,"height":60,"type":"text","text":"Társas Érzék (1 pont)"},
+		{"id":"4cd58d791068c763","x":-47,"y":-80,"width":250,"height":60,"type":"text","text":"Kultúrák Tánca (2 pont)"},
+		{"id":"878c3379d7a0820a","x":260,"y":-80,"width":250,"height":60,"type":"text","text":"Szokások Mélye (3 pont)"},
+		{"id":"082d00ab70958671","x":-47,"y":-280,"width":250,"height":60,"type":"text","text":"Kapcsolatok Szövete (2 pont)"},
+		{"id":"eac41eb0c52697f7","x":-340,"y":-280,"width":250,"height":60,"type":"text","text":"Hálózatok Építője (3 pont)"},
+		{"id":"ce24b0a2a80bdb6d","x":-340,"y":80,"width":250,"height":60,"type":"text","text":"Közösségek Kulcsa (4 pont)"},
+		{"id":"4c687c1587d98f9c","x":260,"y":-520,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Társadalmi & Kulturális Készségek.md"}
+	],
+	"edges":[
+		{"id":"810c088d71087aa4","fromNode":"034ea52bb896d148","fromSide":"bottom","toNode":"4cd58d791068c763","toSide":"top"},
+		{"id":"c3827d5f35c20132","fromNode":"4cd58d791068c763","fromSide":"right","toNode":"878c3379d7a0820a","toSide":"left"},
+		{"id":"64907abab73a7163","fromNode":"034ea52bb896d148","fromSide":"top","toNode":"082d00ab70958671","toSide":"bottom"},
+		{"id":"7cc847812b8807eb","fromNode":"082d00ab70958671","fromSide":"left","toNode":"eac41eb0c52697f7","toSide":"right"},
+		{"id":"a7bac3addbc74f86","fromNode":"878c3379d7a0820a","fromSide":"bottom","toNode":"ce24b0a2a80bdb6d","toSide":"right"},
+		{"id":"41afd5a51ccd24e0","fromNode":"eac41eb0c52697f7","fromSide":"bottom","toNode":"ce24b0a2a80bdb6d","toSide":"top"}
+	]
+}

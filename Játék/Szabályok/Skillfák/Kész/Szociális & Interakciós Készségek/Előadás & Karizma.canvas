@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4fd2b0bf66f3d32d","x":-60,"y":-20,"width":250,"height":102,"type":"text","text":"Alapvető Előadóművészet (1 pont)"},
+		{"id":"f4c2d180d8d89b8f","x":-60,"y":-140,"width":250,"height":60,"type":"text","text":"Színészi Játék (2 pont)"},
+		{"id":"5bc2b85dfd2397fa","x":-60,"y":140,"width":250,"height":60,"type":"text","text":"Zenei Előadás (2 pont)"},
+		{"id":"107d66f56c8d1e55","x":-380,"y":1,"width":250,"height":60,"type":"text","text":"Mesemondás Művészete (2 pont)"},
+		{"id":"721adc1c603c9456","x":-700,"y":1,"width":250,"height":60,"type":"text","text":"Közönség Bűvölete (3 pont)"},
+		{"id":"529eb7053283b6a6","x":-1040,"y":1,"width":250,"height":60,"type":"text","text":"Szavak Mestere (4 pont)"},
+		{"id":"2f646c5d67ab1d67","x":260,"y":-169,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Előadás & Karizma.md"}
+	],
+	"edges":[
+		{"id":"63ad9b50839de23d","fromNode":"f4c2d180d8d89b8f","fromSide":"left","toNode":"721adc1c603c9456","toSide":"top","toEnd":"none"},
+		{"id":"b33bb0d0703a33eb","fromNode":"5bc2b85dfd2397fa","fromSide":"left","toNode":"721adc1c603c9456","toSide":"bottom","toEnd":"none"},
+		{"id":"b54cf0cc408ff021","fromNode":"107d66f56c8d1e55","fromSide":"left","toNode":"721adc1c603c9456","toSide":"right","toEnd":"none"},
+		{"id":"99d217a21b4ab335","fromNode":"721adc1c603c9456","fromSide":"left","toNode":"529eb7053283b6a6","toSide":"right"}
+	]
+}

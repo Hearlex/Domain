@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"380e197c5587d207","x":-140,"y":-40,"width":250,"height":60,"type":"text","text":"Kifinomult Érzékek (1 pont, kezdőpont)"},
+		{"id":"c924ee7f4170d380","x":-140,"y":-140,"width":250,"height":60,"type":"text","text":"Rejtett Jelek (2 pont)"},
+		{"id":"b95eaf6963cb81d8","x":-140,"y":60,"width":250,"height":60,"type":"text","text":"Alap Nyomkövetés (2 pont)"},
+		{"id":"3a4e059fb8e129be","x":-460,"y":-40,"width":250,"height":60,"type":"text","text":"Éles Hallás & Szaglás (2 pont)"},
+		{"id":"d1911f6dfecb887a","x":180,"y":-140,"width":250,"height":60,"type":"text","text":"Csapdaészlelés (3 pont)"},
+		{"id":"7d18a482e4bea2c1","x":-140,"y":160,"width":250,"height":60,"type":"text","text":"Haladó Nyomkövetés (3 pont)"},
+		{"id":"15d152b357ff014d","x":-460,"y":60,"width":250,"height":60,"type":"text","text":"Környezeti Olvasat (3 pont)"},
+		{"id":"3209654e6f675373","x":-140,"y":-240,"width":250,"height":60,"type":"text","text":"Passzív Megfigyelés (4 pont)"},
+		{"id":"b37f222586d10772","x":-140,"y":260,"width":250,"height":60,"type":"text","text":"Mester Nyomkövetés (5 pont)"},
+		{"id":"0905e87dcfeb65af","x":-460,"y":160,"width":250,"height":60,"type":"text","text":"Mély Észlelés (5 pont)"},
+		{"id":"fa0ea5fc6fb37820","x":-460,"y":260,"width":250,"height":60,"type":"text","text":"Mindent Látó Szem (8 pont)"},
+		{"id":"89c0a98dfe0fd635","x":-460,"y":-240,"width":250,"height":60,"type":"text","text":"Intuitív Megérzés (6 pont)"},
+		{"id":"019e349a4d468729","x":180,"y":-40,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Megfigyelés & Nyomkeresés.md"}
+	],
+	"edges":[
+		{"id":"a32bc82cba084955","fromNode":"380e197c5587d207","fromSide":"top","toNode":"c924ee7f4170d380","toSide":"bottom"},
+		{"id":"937a49d69473c9ed","fromNode":"380e197c5587d207","fromSide":"bottom","toNode":"b95eaf6963cb81d8","toSide":"top"},
+		{"id":"4ad5ab2331ae0479","fromNode":"380e197c5587d207","fromSide":"left","toNode":"3a4e059fb8e129be","toSide":"right"},
+		{"id":"73516ae8b5e37221","fromNode":"c924ee7f4170d380","fromSide":"right","toNode":"d1911f6dfecb887a","toSide":"left"},
+		{"id":"d63ab6f8a8d64782","fromNode":"b95eaf6963cb81d8","fromSide":"bottom","toNode":"7d18a482e4bea2c1","toSide":"top"},
+		{"id":"42b3dc0746f06a64","fromNode":"3a4e059fb8e129be","fromSide":"bottom","toNode":"15d152b357ff014d","toSide":"top"},
+		{"id":"1fd1dab98a3931d9","fromNode":"c924ee7f4170d380","fromSide":"top","toNode":"3209654e6f675373","toSide":"bottom"},
+		{"id":"1ab8d8dfd459f0de","fromNode":"7d18a482e4bea2c1","fromSide":"bottom","toNode":"b37f222586d10772","toSide":"top"},
+		{"id":"362dc2bc9b0ad712","fromNode":"15d152b357ff014d","fromSide":"bottom","toNode":"0905e87dcfeb65af","toSide":"top"},
+		{"id":"fdba8cc7aa32f626","fromNode":"0905e87dcfeb65af","fromSide":"bottom","toNode":"fa0ea5fc6fb37820","toSide":"top"},
+		{"id":"0b8190b1145e9f71","fromNode":"b37f222586d10772","fromSide":"left","toNode":"fa0ea5fc6fb37820","toSide":"right"},
+		{"id":"6b97b88cd10850b6","fromNode":"89c0a98dfe0fd635","fromSide":"left","toNode":"fa0ea5fc6fb37820","toSide":"left"},
+		{"id":"c307bc1d7fead5bc","fromNode":"3209654e6f675373","fromSide":"left","toNode":"89c0a98dfe0fd635","toSide":"right"}
+	]
+}

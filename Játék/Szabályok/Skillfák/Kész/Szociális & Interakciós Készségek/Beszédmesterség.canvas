@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"61f26f5b0b46d1ad","x":0,"y":-176,"width":250,"height":60,"type":"text","text":"Szavak Magja (1 pont)"},
+		{"id":"dd076c2729376804","x":-320,"y":-176,"width":250,"height":60,"type":"text","text":"Tekintet Súlya (2 pont)"},
+		{"id":"ae4420638c02c03f","x":320,"y":-176,"width":250,"height":60,"type":"text","text":"Árnyak Nyelve (2 pont)"},
+		{"id":"eb2b44686c9af1cf","x":0,"y":-500,"width":250,"height":60,"type":"text","text":"Emberek Rejtett Nyelve (3 pont)"},
+		{"id":"d03809d1387f52ae","x":140,"y":-300,"width":250,"height":60,"type":"text","text":"Szófonó (2 pont)"},
+		{"id":"b607f7c26f014e15","x":-140,"y":-300,"width":250,"height":60,"type":"text","text":"Kézfogás Mestere (2 pont)"},
+		{"id":"af714b8d9a3f5a7f","x":-75,"y":-60,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Beszédmesterség.md"}
+	],
+	"edges":[
+		{"id":"28d974bc94f5d512","fromNode":"61f26f5b0b46d1ad","fromSide":"top","toNode":"d03809d1387f52ae","toSide":"bottom"},
+		{"id":"2e9dd2f3635cc5fc","fromNode":"61f26f5b0b46d1ad","fromSide":"left","toNode":"dd076c2729376804","toSide":"right"},
+		{"id":"9afa29e5269e3e11","fromNode":"61f26f5b0b46d1ad","fromSide":"right","toNode":"ae4420638c02c03f","toSide":"left"},
+		{"id":"6ce6d745b153a126","fromNode":"b607f7c26f014e15","fromSide":"top","toNode":"eb2b44686c9af1cf","toSide":"bottom","toEnd":"none"},
+		{"id":"3d69c3fd081c57b7","fromNode":"d03809d1387f52ae","fromSide":"top","toNode":"eb2b44686c9af1cf","toSide":"bottom","toEnd":"none"},
+		{"id":"8422db2b8b9d1611","fromNode":"dd076c2729376804","fromSide":"top","toNode":"eb2b44686c9af1cf","toSide":"left","toEnd":"none"},
+		{"id":"93a47fe89df58ae2","fromNode":"ae4420638c02c03f","fromSide":"top","toNode":"eb2b44686c9af1cf","toSide":"right","toEnd":"none"},
+		{"id":"d45fd63a99c50b4d","fromNode":"61f26f5b0b46d1ad","fromSide":"top","toNode":"b607f7c26f014e15","toSide":"bottom"}
+	]
+}

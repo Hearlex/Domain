@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"e44e0d5179c58179","type":"text","text":"Alap Kézitusa (1 pont, kezdőpont)","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"187505c0c28a8b8a","x":-125,"y":140,"width":250,"height":60,"type":"text","text":"Ütés Erősítés (1 pont)"},
+		{"id":"d481049ed9dbcafe","x":220,"y":-30,"width":250,"height":60,"type":"text","text":"Pusztakezes Hárítás / Védekezés (2 pont)"},
+		{"id":"972bde38369d38b4","x":220,"y":140,"width":250,"height":60,"type":"text","text":"Gyors Ütések (3 pont)"},
+		{"id":"20d5cbcca3805096","x":-125,"y":300,"width":250,"height":60,"type":"text","text":"Célzott Ütések (3 pont)"},
+		{"id":"c7a7c39f0401d504","x":220,"y":-160,"width":250,"height":60,"type":"text","text":"Pusztakezes Ellentámadás (1 pont)"},
+		{"id":"6e0dffa6071b6d11","x":-690,"y":140,"width":250,"height":60,"type":"text","text":"Alap Birkózás (1 pont)"},
+		{"id":"585dd2fb848e8f23","x":-690,"y":300,"width":250,"height":60,"type":"text","text":"Megtartás & Fojtás (1 pont)"},
+		{"id":"6dd1fdb759a45eb3","x":-1000,"y":300,"width":250,"height":60,"type":"text","text":"Dobás & Földre Vitel (1 pont)"},
+		{"id":"de1baac078059890","x":-400,"y":300,"width":250,"height":60,"type":"text","text":"Szabadulás a Fogásból (2 pont)"},
+		{"id":"62e4bea7929aa931","x":-690,"y":440,"width":250,"height":60,"type":"text","text":"Fájdalmas Fogások (3 pont)"},
+		{"id":"68a5611c01c15a24","x":-1000,"y":440,"width":250,"height":60,"type":"text","text":"Akadály Kihasználása (1 pont)"},
+		{"id":"9c2df2daf109f2a6","x":-400,"y":440,"width":250,"height":60,"type":"text","text":"Akrobatikus Szabadulás (1 pont)"},
+		{"id":"b7dfc1fcc944db7d","x":145,"y":240,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Kézitusa és Birkózás.md"}
+	],
+	"edges":[
+		{"id":"4a05932332bfb93f","fromNode":"e44e0d5179c58179","fromSide":"bottom","toNode":"187505c0c28a8b8a","toSide":"top"},
+		{"id":"3b058d5f89f47fa2","fromNode":"e44e0d5179c58179","fromSide":"bottom","toNode":"6e0dffa6071b6d11","toSide":"top"},
+		{"id":"7884cff3c0503e81","fromNode":"e44e0d5179c58179","fromSide":"right","toNode":"d481049ed9dbcafe","toSide":"left"},
+		{"id":"1f16c58634510c53","fromNode":"187505c0c28a8b8a","fromSide":"right","toNode":"972bde38369d38b4","toSide":"left"},
+		{"id":"75db9c59be9e051e","fromNode":"e44e0d5179c58179","fromSide":"bottom","toNode":"972bde38369d38b4","toSide":"top"},
+		{"id":"d31e3a63d9d2985c","fromNode":"187505c0c28a8b8a","fromSide":"bottom","toNode":"20d5cbcca3805096","toSide":"top"},
+		{"id":"87fa429f96f7634f","fromNode":"d481049ed9dbcafe","fromSide":"top","toNode":"c7a7c39f0401d504","toSide":"bottom"},
+		{"id":"1ac605d09fbef800","fromNode":"6e0dffa6071b6d11","fromSide":"bottom","toNode":"585dd2fb848e8f23","toSide":"top"},
+		{"id":"2018edea97917a97","fromNode":"6e0dffa6071b6d11","fromSide":"bottom","toNode":"6dd1fdb759a45eb3","toSide":"top"},
+		{"id":"e59a207cb2ea0fc7","fromNode":"6e0dffa6071b6d11","fromSide":"bottom","toNode":"de1baac078059890","toSide":"top"},
+		{"id":"2ba912cd38df0a5e","fromNode":"585dd2fb848e8f23","fromSide":"bottom","toNode":"62e4bea7929aa931","toSide":"top"},
+		{"id":"5d74745ab08f3666","fromNode":"6dd1fdb759a45eb3","fromSide":"bottom","toNode":"68a5611c01c15a24","toSide":"top"},
+		{"id":"a876ea3a6ec0e2e5","fromNode":"de1baac078059890","fromSide":"bottom","toNode":"9c2df2daf109f2a6","toSide":"top"}
+	]
+}

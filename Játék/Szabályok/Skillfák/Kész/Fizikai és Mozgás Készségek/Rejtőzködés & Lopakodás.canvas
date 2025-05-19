@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"8323d29621c9f731","x":-140,"y":-60,"width":250,"height":103,"type":"text","text":"Alap Rejtőzködés & Lopakodás (1 pont, kezdőpont)"},
+		{"id":"8001b34a7c38129f","x":-140,"y":-180,"width":250,"height":60,"type":"text","text":"Csendes Lopakodás (1 pont)"},
+		{"id":"fcd87cfe9807d09e","x":-140,"y":100,"width":250,"height":60,"type":"text","text":"Hatékony Rejtőzködés (1 pont)"},
+		{"id":"561e953fe72d16ba","x":-460,"y":-38,"width":250,"height":60,"type":"text","text":"Környezet Kihasználása (2 pont)"},
+		{"id":"d1db82d0e6dd4af7","x":180,"y":-180,"width":250,"height":60,"type":"text","text":"Hangtalan Mozgás (2 pont)"},
+		{"id":"cffd274f71c3801b","x":-140,"y":-300,"width":250,"height":60,"type":"text","text":"Gyors Lopakodás (2 pont)"},
+		{"id":"69ab23dd15005ea2","x":-460,"y":100,"width":250,"height":60,"type":"text","text":"Nem Érzékelhető Mozgás (3 pont)"},
+		{"id":"67a8701b42fff98e","x":-140,"y":220,"width":250,"height":60,"type":"text","text":"Rejtett Akciók (1 pont)"},
+		{"id":"96855b1e6195d65f","x":180,"y":100,"width":250,"height":60,"type":"text","text":"Harcban Elrejtőzés (3 pont)"},
+		{"id":"7d3724bbdb1bcb44","x":180,"y":-38,"width":250,"height":60,"type":"text","text":"Teljes Árnyék Mesterség (5 pont)"},
+		{"id":"dada14b0cd9c5ff1","x":180,"y":220,"width":250,"height":60,"type":"text","text":"Meglepetés Taktika (5 pont)"},
+		{"id":"c70882308a13901d","x":500,"y":-180,"width":250,"height":60,"type":"text","text":"Hangtalan Akciók (1 pont)"},
+		{"id":"aeede31c4d8bb61f","x":500,"y":-38,"width":250,"height":60,"type":"text","text":"Hangtalan Behatolás (3 pont)"},
+		{"id":"46cebd69bf0fbe81","x":-610,"y":-520,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Rejtőzködés & Lopakodás.md"}
+	],
+	"edges":[
+		{"id":"72eadc9b88bf8774","fromNode":"8323d29621c9f731","fromSide":"top","toNode":"8001b34a7c38129f","toSide":"bottom"},
+		{"id":"e3f67d5a8f9e2c0f","fromNode":"8323d29621c9f731","fromSide":"bottom","toNode":"fcd87cfe9807d09e","toSide":"top"},
+		{"id":"f1765ca0d5d46999","fromNode":"8323d29621c9f731","fromSide":"left","toNode":"561e953fe72d16ba","toSide":"right"},
+		{"id":"ebdc9beb85829b7b","fromNode":"8001b34a7c38129f","fromSide":"right","toNode":"d1db82d0e6dd4af7","toSide":"left"},
+		{"id":"faf0d64b8006d42c","fromNode":"8001b34a7c38129f","fromSide":"top","toNode":"cffd274f71c3801b","toSide":"bottom"},
+		{"id":"57b23ec2bbea1e5a","fromNode":"561e953fe72d16ba","fromSide":"bottom","toNode":"69ab23dd15005ea2","toSide":"top"},
+		{"id":"cd2a31ff7dec3020","fromNode":"fcd87cfe9807d09e","fromSide":"bottom","toNode":"67a8701b42fff98e","toSide":"top"},
+		{"id":"ba8d5e4997371faa","fromNode":"fcd87cfe9807d09e","fromSide":"right","toNode":"96855b1e6195d65f","toSide":"left"},
+		{"id":"90aea92251eaec89","fromNode":"d1db82d0e6dd4af7","fromSide":"bottom","toNode":"7d3724bbdb1bcb44","toSide":"top"},
+		{"id":"31fe935a96c0579f","fromNode":"96855b1e6195d65f","fromSide":"top","toNode":"7d3724bbdb1bcb44","toSide":"bottom"},
+		{"id":"657e5c52492050ae","fromNode":"96855b1e6195d65f","fromSide":"bottom","toNode":"dada14b0cd9c5ff1","toSide":"top"},
+		{"id":"f0576055fbf7a311","fromNode":"d1db82d0e6dd4af7","fromSide":"right","toNode":"c70882308a13901d","toSide":"left"},
+		{"id":"53280cd8f573e6fc","fromNode":"c70882308a13901d","fromSide":"bottom","toNode":"aeede31c4d8bb61f","toSide":"top"}
+	]
+}

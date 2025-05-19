@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"51b23f9ddbea8f62","x":-120,"y":-100,"width":250,"height":60,"type":"text","text":"Alap Állóképesség (1 pont, Kezdőpont)"},
+		{"id":"7f9586120cb0ac2c","x":-120,"y":20,"width":250,"height":60,"type":"text","text":"Fokozott Életerő (2 pont)"},
+		{"id":"b431463876f3f39f","x":-120,"y":-220,"width":250,"height":60,"type":"text","text":"Nagyobb Teherbírás (1 pont)"},
+		{"id":"b19c35ac70a0d26d","x":-440,"y":-100,"width":250,"height":60,"type":"text","text":"Fizikai Hajlékonyság (1 pont)"},
+		{"id":"cfa616743e13e3ac","x":-120,"y":140,"width":250,"height":60,"type":"text","text":"Gyors Regeneráció (3 pont)"},
+		{"id":"492ecaa97b77a7f2","x":200,"y":20,"width":250,"height":60,"type":"text","text":"Kritikus Életerő (5 pont)"},
+		{"id":"964fd7aaca796162","x":-120,"y":-340,"width":250,"height":60,"type":"text","text":"Óriási Erő (2 pont)"},
+		{"id":"82d628b071d0eb9a","x":-440,"y":20,"width":250,"height":60,"type":"text","text":"Elemekkel Szembeni Ellenállás (2 pont)"},
+		{"id":"e2c46ec80e993ad4","x":-120,"y":260,"width":250,"height":60,"type":"text","text":"Csata Regeneráció (10 pont)"},
+		{"id":"7a23989a6bf4b9e1","x":-120,"y":-460,"width":250,"height":60,"type":"text","text":"Fizikai Áttörés (3 pont)"},
+		{"id":"99395e0bffcd5606","x":-440,"y":140,"width":250,"height":100,"type":"text","text":"Mérgek & Betegségek Elleni Ellenállás (3 pont)"},
+		{"id":"c8683d275c2f866f","x":200,"y":140,"width":250,"height":60,"type":"text","text":"Dacolás a Halállal (3 pont)"},
+		{"id":"a906841ed89fdf2d","x":200,"y":-100,"width":250,"height":60,"type":"text","text":"Utazási Állóképesség (2 pont)"},
+		{"id":"458c2c10d1821588","x":-195,"y":360,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Erőnlét & Állóképesség.md"}
+	],
+	"edges":[
+		{"id":"1cf4d7e26f06f949","fromNode":"51b23f9ddbea8f62","fromSide":"bottom","toNode":"7f9586120cb0ac2c","toSide":"top"},
+		{"id":"0d1fb97c262ba7af","fromNode":"51b23f9ddbea8f62","fromSide":"top","toNode":"b431463876f3f39f","toSide":"bottom"},
+		{"id":"a2c62069e3d0abf5","fromNode":"51b23f9ddbea8f62","fromSide":"left","toNode":"b19c35ac70a0d26d","toSide":"right"},
+		{"id":"ee3213e123cf1377","fromNode":"7f9586120cb0ac2c","fromSide":"bottom","toNode":"cfa616743e13e3ac","toSide":"top"},
+		{"id":"0e8636e8291aa849","fromNode":"7f9586120cb0ac2c","fromSide":"right","toNode":"492ecaa97b77a7f2","toSide":"left"},
+		{"id":"25be2434008c8bcb","fromNode":"b431463876f3f39f","fromSide":"top","toNode":"964fd7aaca796162","toSide":"bottom"},
+		{"id":"7d45850742c00206","fromNode":"b19c35ac70a0d26d","fromSide":"bottom","toNode":"82d628b071d0eb9a","toSide":"top"},
+		{"id":"3b46c29b4b334e27","fromNode":"cfa616743e13e3ac","fromSide":"bottom","toNode":"e2c46ec80e993ad4","toSide":"top"},
+		{"id":"8e7dae70c67a824e","fromNode":"964fd7aaca796162","fromSide":"top","toNode":"7a23989a6bf4b9e1","toSide":"bottom"},
+		{"id":"9050f6c18a72e612","fromNode":"82d628b071d0eb9a","fromSide":"bottom","toNode":"99395e0bffcd5606","toSide":"top"},
+		{"id":"83e074bac77af7d6","fromNode":"492ecaa97b77a7f2","fromSide":"bottom","toNode":"c8683d275c2f866f","toSide":"top"},
+		{"id":"dc577c5f452d8a80","fromNode":"51b23f9ddbea8f62","fromSide":"right","toNode":"a906841ed89fdf2d","toSide":"left"}
+	]
+}

@@ -6,3 +6,5 @@ Mivel nincsen szuperképesség vagy varázslat ami eltudná venni a figyelmüket
 **Valódi szaktudás (Passzív)**
 A karakter készítése során kiválaszthatsz három skillfát. Ha bármikor ezekkel kapcsolatos dobást kell dobnod (tudás, támadás, stb...). Akkor hozzáadhatsz +1-et a dobásodhoz.
 
+**Brilliáns pillanat**
+A szakértő naponta egyszer kihasználhatja specialitását. Amikor a Valódi szaktudás passzív által kiválasztott három skillfa közül, valamelyikkel kapcsolatos dobást dobsz, előnyt szerzel arra.

@@ -14,4 +14,6 @@ Ahol az eltelt napok az utolsó étkezés óta eltelt nap. És az éhségérték
 Az utolsó érték pedig a LUC érték, ami alapján pedig az utazás közben történt hátrányok mennyisége számolható ki. Egy hátrány lehet egy ellenség megjelenése akár utazás közben, akár alvás közben (bár ez nem feltétlen jelenti azt, hogy támadnak is), de lehet valamilyen speciális kihívás amit a játékosoknak meg kell oldaniuk, vagy elfogadniuk a következményüket (például a lovashintó kereke meghibásodik, cserébe két nappal tovább tart az út).
 
 **3. Stresszes események közben**
-Stresszes események közben a játékosok alapértelmezetten 3 hexagon (3 méter) megtételére jogosultak. A DEX értékből származó módosító pedig ezt módosítja további/kevesebb hexagonokkal.
+Stresszes események közben a játékosok alapértelmezetten 3 hexagon (3 méter) megtételére jogosultak. A SPD értékből származó módosító pedig ezt módosítja további/kevesebb hexagonokkal.
+
+Nehezített terepen mozgásbüntetést kapnak a karakterek, a mozgásuk kétszeresét kell elhasználni egy nehéz terepen.

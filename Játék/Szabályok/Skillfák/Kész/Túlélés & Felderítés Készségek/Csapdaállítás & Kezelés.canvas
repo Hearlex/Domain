@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"290c6fd4eaed9018","x":-22,"y":-71,"width":250,"height":60,"type":"text","text":"Alap Csapdaismeret (1 pont, kezdőpont)"},
+		{"id":"f6502a7d26f20521","x":-22,"y":40,"width":250,"height":60,"type":"text","text":"Egyszerű Csapdák Készítése (1 pont)"},
+		{"id":"c756c74ffbc46bbf","x":-22,"y":-180,"width":250,"height":60,"type":"text","text":"Csapda Felderítés (2 pont)"},
+		{"id":"14b4380d267f9144","x":320,"y":-71,"width":250,"height":60,"type":"text","text":"Egyszerű Csapdák Kezelése (2 pont)"},
+		{"id":"6bc001e5a3440060","x":-22,"y":140,"width":250,"height":60,"type":"text","text":"Álcázás & Rejtés (2 pont)"},
+		{"id":"b10256492ebb0193","x":320,"y":-180,"width":250,"height":60,"type":"text","text":"Összetett Csapdák Készítése (3 pont)"},
+		{"id":"a78438ea853768c0","x":-360,"y":-180,"width":250,"height":60,"type":"text","text":"Haladó Csapda Felderítés (3 pont)"},
+		{"id":"8aacba4f92826650","x":320,"y":40,"width":250,"height":60,"type":"text","text":"Összetett Csapdák Kezelése (3 pont)"},
+		{"id":"8a2ea62648eaef2f","x":320,"y":140,"width":250,"height":60,"type":"text","text":"Csapdák Kihasználása (4 pont)"},
+		{"id":"06f5e107dbbf6260","x":660,"y":40,"width":250,"height":60,"type":"text","text":"Mester Csapdakészítő (5 pont)"},
+		{"id":"63aa9e7335ed4df2","x":-360,"y":-71,"width":250,"height":60,"type":"text","text":"Mester Csapda Felderítés (5 pont)"},
+		{"id":"e64397b0ff34b224","x":660,"y":-180,"width":250,"height":60,"type":"text","text":"Mester Csapda Kezelés (5 pont)"},
+		{"id":"c9fe5dda9b654722","x":660,"y":-71,"width":250,"height":60,"type":"text","text":"Gyors Csapda Kezelés (6 pont)"},
+		{"id":"bd75a971bd8a9895","x":1000,"y":-71,"width":250,"height":60,"type":"text","text":"Csapda Mester (8 pont)"},
+		{"id":"e972bcbdb48e7e30","x":-510,"y":40,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Csapdaállítás & Kezelés.md"}
+	],
+	"edges":[
+		{"id":"e2bfee6f8686ddbe","fromNode":"290c6fd4eaed9018","fromSide":"bottom","toNode":"f6502a7d26f20521","toSide":"top"},
+		{"id":"d3a866b286c4cda0","fromNode":"290c6fd4eaed9018","fromSide":"top","toNode":"c756c74ffbc46bbf","toSide":"bottom"},
+		{"id":"c2de02072fe0124f","fromNode":"290c6fd4eaed9018","fromSide":"right","toNode":"14b4380d267f9144","toSide":"left"},
+		{"id":"54b7af30088aa654","fromNode":"f6502a7d26f20521","fromSide":"bottom","toNode":"6bc001e5a3440060","toSide":"top"},
+		{"id":"ac1e1771cbc6f0d5","fromNode":"14b4380d267f9144","fromSide":"top","toNode":"b10256492ebb0193","toSide":"bottom"},
+		{"id":"2acad417655a3fe7","fromNode":"c756c74ffbc46bbf","fromSide":"left","toNode":"a78438ea853768c0","toSide":"right"},
+		{"id":"c8c9188656be1c1e","fromNode":"f6502a7d26f20521","fromSide":"right","toNode":"8aacba4f92826650","toSide":"left"},
+		{"id":"f8bea3a3f7f3fb90","fromNode":"8aacba4f92826650","fromSide":"bottom","toNode":"8a2ea62648eaef2f","toSide":"top"},
+		{"id":"3d5dd649960c72d0","fromNode":"8aacba4f92826650","fromSide":"right","toNode":"06f5e107dbbf6260","toSide":"left"},
+		{"id":"0699ebc8cb04ba5d","fromNode":"a78438ea853768c0","fromSide":"bottom","toNode":"63aa9e7335ed4df2","toSide":"top"},
+		{"id":"c325a34fa3daa5a8","fromNode":"b10256492ebb0193","fromSide":"right","toNode":"e64397b0ff34b224","toSide":"left"},
+		{"id":"3abf7438a0139d1b","fromNode":"e64397b0ff34b224","fromSide":"bottom","toNode":"c9fe5dda9b654722","toSide":"top"},
+		{"id":"85b62206adeeebb9","fromNode":"06f5e107dbbf6260","fromSide":"right","toNode":"bd75a971bd8a9895","toSide":"bottom"},
+		{"id":"c68d14675015099c","fromNode":"e64397b0ff34b224","fromSide":"right","toNode":"bd75a971bd8a9895","toSide":"top"}
+	]
+}

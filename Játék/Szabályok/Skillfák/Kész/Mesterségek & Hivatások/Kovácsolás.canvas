@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"e46795e293becd89","x":-50,"y":221,"width":250,"height":60,"type":"text","text":"A Tűz Hívása (1 pont, kezdőpont)"},
+		{"id":"7599ab2ac0ae27e3","x":-50,"y":100,"width":250,"height":60,"type":"text","text":"Az Üllő Dallama (2 pont)"},
+		{"id":"78d9b248cb4a03c1","x":-50,"y":-40,"width":250,"height":60,"type":"text","text":"Formák Harmóniája (5 pont)"},
+		{"id":"7fea178149329f15","x":-50,"y":-160,"width":250,"height":60,"type":"text","text":"Az Éteri Kovács (6 pont)"},
+		{"id":"0ef17588f3821adc","x":280,"y":-280,"width":250,"height":60,"type":"text","text":"Éles Szélek Titka (3 pont)"},
+		{"id":"42312a890f8cebdd","x":-50,"y":-280,"width":250,"height":60,"type":"text","text":"Az Alapanyag Suttogása (4 pont)"},
+		{"id":"1f5c7cd028eb55ac","x":-380,"y":-280,"width":250,"height":60,"type":"text","text":"Védőformák Öröme (3 pont)"},
+		{"id":"fed1efef176581d0","x":-125,"y":320,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Kovácsolás.md"}
+	],
+	"edges":[
+		{"id":"f661ec612f5da806","fromNode":"e46795e293becd89","fromSide":"top","toNode":"7599ab2ac0ae27e3","toSide":"bottom"},
+		{"id":"7bdefabaefcb744b","fromNode":"7599ab2ac0ae27e3","fromSide":"left","toNode":"1f5c7cd028eb55ac","toSide":"bottom"},
+		{"id":"e53b3bc0b5540e9a","fromNode":"7599ab2ac0ae27e3","fromSide":"right","toNode":"0ef17588f3821adc","toSide":"bottom"},
+		{"id":"80631d7b4e510978","fromNode":"1f5c7cd028eb55ac","fromSide":"right","toNode":"42312a890f8cebdd","toSide":"left","fromEnd":"arrow"},
+		{"id":"cfdd85f3cdbc8dca","fromNode":"0ef17588f3821adc","fromSide":"left","toNode":"42312a890f8cebdd","toSide":"right","fromEnd":"arrow"},
+		{"id":"e57b26d78629fc91","fromNode":"42312a890f8cebdd","fromSide":"bottom","toNode":"7fea178149329f15","toSide":"top"},
+		{"id":"6fd8286cd022b626","fromNode":"78d9b248cb4a03c1","fromSide":"top","toNode":"7fea178149329f15","toSide":"bottom"},
+		{"id":"f33965b15e07ca40","fromNode":"1f5c7cd028eb55ac","fromSide":"left","toNode":"78d9b248cb4a03c1","toSide":"left"},
+		{"id":"973d8ef77354376f","fromNode":"0ef17588f3821adc","fromSide":"right","toNode":"78d9b248cb4a03c1","toSide":"right"}
+	]
+}

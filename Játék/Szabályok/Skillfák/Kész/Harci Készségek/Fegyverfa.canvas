@@ -1,15 +1,16 @@
 {
 	"nodes":[
 		{"type":"group","id":"89f8d8283f7968ef","x":-960,"y":-660,"width":640,"height":300,"label":"Mágikus fegyverviselés"},
-		{"type":"text","text":"Fegyverhordás (1 pont)","id":"f68b8ff9a427e95e","x":-140,"y":-440,"width":250,"height":60},
 		{"type":"text","text":"Egyszerű támadás (1 pont)","id":"5d990171616639e4","x":-440,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"Combo támadás / Második ütés (3 pont)","id":"bf8a65ea338146ff","x":-440,"y":-180,"width":250,"height":60},
 		{"type":"text","text":"Új fegyver kiválasztása (Kezdőpont)","id":"83fb0c83c008edfd","x":-140,"y":-560,"width":250,"height":60},
-		{"type":"text","text":"Mágia (Előfeltétel)","id":"12f66d247f4ccaa0","x":-940,"y":-650,"width":250,"height":60},
+		{"type":"text","text":"Mágia (Előfeltétel és másodlagos kezdőpont)","id":"12f66d247f4ccaa0","x":-940,"y":-650,"width":250,"height":60},
 		{"type":"text","text":"Mágia ötvözés fegyverhez (1 pont)","id":"1f403b0414e597b4","x":-940,"y":-560,"width":250,"height":60},
 		{"type":"text","text":"Mágikus utóhatás támadás után (3 pont)","id":"63bf775790601699","x":-920,"y":-440,"width":250,"height":60},
 		{"type":"text","text":"Mágikus infúzió (1 pont)","id":"a78d17d5e0247831","x":-580,"y":-560,"width":250,"height":60},
 		{"id":"09ca60a981f2aeb0","type":"text","text":"Speciális funkció {Ha van} (1 pont)","x":-740,"y":-180,"width":250,"height":60},
+		{"id":"6e798c835cabf728","type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Fegyverfa.md","x":-1160,"y":-300,"width":400,"height":400},
+		{"type":"text","text":"Fegyverhordás (1 pont)","id":"f68b8ff9a427e95e","x":-140,"y":-440,"width":250,"height":60},
 		{"type":"text","text":"Hárítás (2 pont)","id":"f5293fb73ed58ac6","x":-140,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"Védekezés (1 pont)","id":"5d506bf4d8312ea0","x":160,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"Ellentámadás (1 pont)","id":"f8a6bfe0e6f4c1d6","x":-140,"y":-80,"width":250,"height":60},

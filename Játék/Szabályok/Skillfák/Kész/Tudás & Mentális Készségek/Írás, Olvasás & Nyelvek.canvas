@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"287ed5ad678b95af","x":-140,"y":-100,"width":250,"height":79,"type":"text","text":"Alapvető Írás & Olvasás (1 pont, kezdőpont)"},
+		{"id":"573b3bc276f3c49b","x":-140,"y":80,"width":250,"height":60,"type":"text","text":"Nyelvismeret (2 pont, Ismételhető)"},
+		{"id":"19fdd94e6927724b","x":160,"y":-180,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Írás, Olvasás & Nyelvek.md"}
+	],
+	"edges":[
+		{"id":"00804b66abe90d0c","fromNode":"287ed5ad678b95af","fromSide":"bottom","toNode":"573b3bc276f3c49b","toSide":"top"}
+	]
+}

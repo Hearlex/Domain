@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"537fcad9a8319afb","type":"text","text":"Piaci Ösztön (1 pont)","x":-40,"y":-105,"width":250,"height":60},
+		{"id":"15c0106f2c2a4422","type":"text","text":"Alkudozás Tudománya (2 pont)","x":-40,"y":20,"width":250,"height":80},
+		{"id":"6d6ac861e93cb27a","type":"text","text":"Hamisítványok Szeme (2 pont)","x":-40,"y":-220,"width":250,"height":60},
+		{"id":"2c920158c4bcbf89","type":"text","text":"Rejtett Ügyletek (3 pont)","x":280,"y":-105,"width":250,"height":60},
+		{"id":"02ce3a127bf8fa1b","x":600,"y":-105,"width":250,"height":60,"type":"text","text":"Piaci Szellem (4 pont)"},
+		{"id":"e00c71c7ced44632","x":-480,"y":-275,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Kereskedelem & Alkudozás.md"}
+	],
+	"edges":[
+		{"id":"c25d0b2b15b8d539","fromNode":"537fcad9a8319afb","fromSide":"top","toNode":"6d6ac861e93cb27a","toSide":"bottom"},
+		{"id":"4c99d15d38afe2f0","fromNode":"537fcad9a8319afb","fromSide":"bottom","toNode":"15c0106f2c2a4422","toSide":"top"},
+		{"id":"e0cdbbe22bd29c69","fromNode":"6d6ac861e93cb27a","fromSide":"right","toNode":"2c920158c4bcbf89","toSide":"top"},
+		{"id":"1c2c3503cd388738","fromNode":"15c0106f2c2a4422","fromSide":"right","toNode":"2c920158c4bcbf89","toSide":"bottom"},
+		{"id":"0b9b787cd8a9984c","fromNode":"2c920158c4bcbf89","fromSide":"right","toNode":"02ce3a127bf8fa1b","toSide":"left"}
+	]
+}

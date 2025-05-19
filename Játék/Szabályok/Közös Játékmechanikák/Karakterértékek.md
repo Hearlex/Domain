@@ -8,7 +8,7 @@ A karakterek alapértelmezetten a következő statokkal/skillekkel kezdenek. Ami
 - **Strength** - Azt mutattja mennyire erős a karakter, gyakran támadásoknál használható, valamint ebből származik a teherbírás és fegyver/páncél követelmények. (+- a dobáshoz)
 - **Toughness** - A maximum életet, a gyógyulás mértékét és a mérgek, betegségek, természeti hatások ellenállását (pl. hőmérséklet) mutattja. (+- a dobáshoz)
 - **Speed** - Sebesség minden értelemben. Az akciók száma, a mozgás távolsága és hasonló értékek is ebből számolódnak. Nagyon fontos továbbá a Target Defense értékhez is.
-- **Dexterity** - Mozgékonyság. Ide kapcsolódik minden ügyességet igénylő tevékenység, mozgási sebesség valamint pontosság. (+- a dobáshoz), ebből számolódik az AoE defense
+- **Dexterity** - Mozgékonyság. Ide kapcsolódik minden ügyességet igénylő tevékenység valamint pontosság. (+- a dobáshoz), ebből számolódik az AoE defense
 
 **Szellemi értékek:**
 - **Intelligence** - A karakter problémamegoldó készsége, nyelvismerete, mágiahasználata mind ehhez kötődik. (+- a dobáshoz)

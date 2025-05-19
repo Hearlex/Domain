@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"76f1e5facd0ea355","type":"text","text":"Harcmező Felmérés (1 pont, Kezdőpont)","x":-120,"y":-160,"width":250,"height":61},
+		{"id":"b2a0414eedc06f6b","type":"text","text":"Alap Parancsnoklás (1 pont)","x":-120,"y":-40,"width":250,"height":60},
+		{"id":"da6ad4ea6e8031fa","x":-420,"y":-160,"width":250,"height":60,"type":"text","text":"Taktikai Észlelés (2 pont)"},
+		{"id":"6ce8728bcbf5c1fb","x":180,"y":-40,"width":250,"height":60,"type":"text","text":"Koordinált Támadás (3 pont)"},
+		{"id":"f61ae6affb8cf6ab","x":-420,"y":-280,"width":250,"height":60,"type":"text","text":"Ellen-Taktika (1 pont)"},
+		{"id":"45fd8bccc711e424","x":-120,"y":80,"width":250,"height":60,"type":"text","text":"Védekező Parancsok (2 pont)"},
+		{"id":"eb2889713ad02052","x":180,"y":80,"width":250,"height":60,"type":"text","text":"Csapatvezetés (3 pont)"},
+		{"id":"0a26fd7680c6b1a1","x":-420,"y":-400,"width":250,"height":60,"type":"text","text":"Taktikai Előny Kihasználása (1 pont)"},
+		{"id":"eb47bc4c8eaa00b9","x":180,"y":200,"width":250,"height":60,"type":"text","text":"Stratégiai Gondolkodás (5 pont)"},
+		{"id":"ef952321ee65da88","x":480,"y":80,"width":250,"height":60,"type":"text","text":"Inspiráló Parancsok (3 pont)"},
+		{"id":"f0b7f4e014881fdb","x":180,"y":-500,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Taktika & Harcászat.md"}
+	],
+	"edges":[
+		{"id":"9dfabacc54d8ba2a","fromNode":"76f1e5facd0ea355","fromSide":"bottom","toNode":"b2a0414eedc06f6b","toSide":"top"},
+		{"id":"380d42466cb7d20a","fromNode":"76f1e5facd0ea355","fromSide":"left","toNode":"da6ad4ea6e8031fa","toSide":"right"},
+		{"id":"dc60c1a3392203d1","fromNode":"b2a0414eedc06f6b","fromSide":"right","toNode":"6ce8728bcbf5c1fb","toSide":"left"},
+		{"id":"72c517bc2d98e536","fromNode":"b2a0414eedc06f6b","fromSide":"bottom","toNode":"45fd8bccc711e424","toSide":"top"},
+		{"id":"69d6bf020e63ef4d","fromNode":"da6ad4ea6e8031fa","fromSide":"top","toNode":"f61ae6affb8cf6ab","toSide":"bottom"},
+		{"id":"dddc63513c56b6aa","fromNode":"45fd8bccc711e424","fromSide":"right","toNode":"eb2889713ad02052","toSide":"left"},
+		{"id":"264b06956e62aa7f","fromNode":"6ce8728bcbf5c1fb","fromSide":"bottom","toNode":"eb2889713ad02052","toSide":"top"},
+		{"id":"ad435fc44d597ec1","fromNode":"f61ae6affb8cf6ab","fromSide":"top","toNode":"0a26fd7680c6b1a1","toSide":"bottom"},
+		{"id":"ee1ec7c9d4b8733b","fromNode":"eb2889713ad02052","fromSide":"bottom","toNode":"eb47bc4c8eaa00b9","toSide":"top"},
+		{"id":"6016b69723d7e84f","fromNode":"eb2889713ad02052","fromSide":"right","toNode":"ef952321ee65da88","toSide":"left"}
+	]
+}
