@@ -13,7 +13,7 @@
 		{"id":"62e4bea7929aa931","x":-690,"y":440,"width":250,"height":60,"type":"text","text":"Fájdalmas Fogások (3 pont)"},
 		{"id":"68a5611c01c15a24","x":-1000,"y":440,"width":250,"height":60,"type":"text","text":"Akadály Kihasználása (1 pont)"},
 		{"id":"9c2df2daf109f2a6","x":-400,"y":440,"width":250,"height":60,"type":"text","text":"Akrobatikus Szabadulás (1 pont)"},
-		{"id":"b7dfc1fcc944db7d","x":145,"y":240,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Kézitusa és Birkózás.md"}
+		{"id":"b7dfc1fcc944db7d","x":145,"y":240,"width":400,"height":400,"type":"file","file":"Játék/Szabályok/Skillfák/Skillek/Kézitusa & Birkózás.md"}
 	],
 	"edges":[
 		{"id":"4a05932332bfb93f","fromNode":"e44e0d5179c58179","fromSide":"bottom","toNode":"187505c0c28a8b8a","toSide":"top"},

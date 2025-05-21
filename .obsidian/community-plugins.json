@@ -3,5 +3,9 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "mousewheel-image-zoom",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-meta-bind-plugin",
+  "automatic-table-of-contents",
+  "better-export-pdf",
+  "break-page"
 ]

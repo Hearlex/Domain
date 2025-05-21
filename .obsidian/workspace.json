@@ -58,15 +58,35 @@
           {
             "id": "24f986ce4c7e062c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Karakterkészítés"
+            }
+          },
+          {
+            "id": "a5a525462c3124c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain of the 8 Shards - Player's Handbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain of the 8 Shards - Player's Handbook"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "f4a8ab71e8986f22",
@@ -185,12 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Domain of the 8 Shards - Player's Handbook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Domain of the 8 Shards - Player's Handbook"
             }
           },
           {
@@ -221,44 +242,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24f986ce4c7e062c",
+  "active": "a5a525462c3124c6",
   "lastOpenFiles": [
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Domain of the 8 Shards - Player's Handbook.md",
+    "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
+    "Játék/Szabályok/Osztályok/Természetfeletti.md",
+    "Játék/Szabályok/Osztályok/Szakértő.md",
+    "Játék/Szabályok/Osztályok/Mágus.md",
+    "Játék/Szabályok/Osztályok/Szellemidéző.md",
+    "Pasted image 20250520233621.png",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+    "Játék/Tárgyak/Védőfelszerelések.md",
+    "Játék/Tárgyak/Fegyverek.md",
+    "Játék/Szabályok/Skillfák/Kész/Harci Készségek/Kézitusa & Birkózás.canvas",
+    "Játék/Szabályok/Skillfák/Kész/Fizikai és Mozgás Készségek/Akrobatika & Kitérés.canvas",
+    "Világ/Mágia/Varázslat és varázskörök.md",
+    "Játék/Szabályok/Fajok/Ember.md",
+    "Játék/Szabályok/Skillfák/Kész/Harci Készségek/Taktika & Harcászat.canvas",
+    "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek/Előadás & Karizma.canvas",
+    "Világ/Mágia/Mágia formái.md",
+    "Világ/Mágia/Mágia képe.md",
+    "Világ/Mágia/Fonal.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+    "Játék/Teszt/Gregor Terbinger.md",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mentális Kitartás & Fókusz.canvas",
+    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mágikus & Spirituális Ismeretek.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Nyelv.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Kereskedelem.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Irás és Olvasás.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Etikett.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Diplomácia.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mentális Kitartás & Fókusz.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mágikus & Spirituális Ismeretek.canvas",
-    "Játék/Szabályok/Skillfák/Kész/Mesterségek & Hivatások/Alkímia.canvas",
-    "Játék/Szabályok/Skillfák/Skillek/Alkímia.md",
-    "Játék/Szabályok/Skillfák/Kész/Mesterségek & Hivatások/Kovácsolás.canvas",
-    "Játék/Szabályok/Skillfák/Skillek/Kovácsolás.md",
-    "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek/Kereskedelem & Alkudozás.canvas",
-    "Játék/Szabályok/Skillfák/Skillek/Kereskedelem & Alkudozás.md",
-    "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek/Előadás & Karizma.canvas",
-    "Játék/Szabályok/Skillfák/Skillek/Előadás & Karizma.md",
-    "Játék/Szabályok/Skillfák/Skillek/Társadalmi & Kulturális Készségek.md",
-    "Játék/Szabályok/Skillfák/Skillek/Beszédmesterség.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-    "Játék/Szabályok/Skillfák/Skillek/Írás, Olvasás & Nyelvek.md",
-    "Játék/Szabályok/Skillfák/Skillek/Mentális Kitartás & Fókusz.md",
-    "Játék/Szabályok/Skillfák/Skillek/Mágikus & Spirituális Ismeretek.md",
-    "Világ/Osztályok/Szellemidézők, használók.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Szabályok/Skillfák/Skillek/Tanulmányok & Akadémia.md",
-    "Játék/Szabályok/Skillfák/Skillek/Csapdaállítás & Kezelés.md",
-    "Játék/Szabályok/Skillfák/Skillek/Megfigyelés & Nyomkeresés.md",
-    "Játék/Szabályok/Skillfák/Skillek/Túlélés & Vadonjárás.md",
-    "Játék/Szabályok/Skillfák/Skillek/Taktika & Harcászat.md",
-    "Játék/Szabályok/Skillfák/Skillek/Erőnlét & Állóképesség.md",
-    "Játék/Szabályok/Skillfák/Skillek/Rejtőzködés & Lopakodás.md",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Fizikai és Mozgás Készségek/Untitled.md",
-    "Játék/Szabályok/Skillfák/Skillek/Akrobatika & Kitérés.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
-    "Játék/Tárgyak/Fegyverek.md",
-    "Játék/Tárgyak/Védőfelszerelések.md",
+    "Világ/Képek/Elektromosság kristály.png",
+    "Világ/Képek/Föld kristály.png",
+    "Világ/Képek/Tér és Idő kristály.png",
+    "Világ/Képek/Rageus (Kívűlről).png",
     "Játék/Szabályok/Skillfák/Kész/Mesterségek & Hivatások",
     "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek",
     "Játék/Szabályok/Skillfák/Kész/Tudás & Mentális Készségek",
@@ -273,11 +299,6 @@
     "Világ/Mágia/Hatások/Képek/enchantment.png",
     "Világ/Mágia/Hatások/Képek/support.png",
     "Világ/Mágia/Hatások/Képek/creation.png",
-    "Világ/Mágia/Hatások/Képek/cancel.png",
-    "Világ/Mágia/Hatások/Képek/body.png",
-    "Világ/Mágia/Hatások/Képek/weapon.png",
-    "Világ/Mágia/Hatások/Képek/self.png",
-    "Világ/Mágia/Hatások/Képek/reality.png",
-    "Világ/Mágia/Hatások/Képek/sense.png"
+    "Világ/Mágia/Hatások/Képek/cancel.png"
   ]
 }

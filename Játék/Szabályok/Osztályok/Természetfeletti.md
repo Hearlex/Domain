@@ -14,7 +14,7 @@ Amennyiben a játékosok rövid pihenőt tartanak, a Természetfelettiek minden 
 
 A karakter rendelkezik valamilyen természetfeletti képességgel. Ezek bár egymástól nagyon különbözőek lehetnek, gyakran besorolhatóak valamilyen kategóriába.  A képességek képesek fejlődni (ezt a GM-el megbeszélve lehet kialakítani.)
 
-## Mágiafelettiek
+#### Mágiafelettiek
 A mágiafelettiek a természetfelettiek azon csoportja akik rendelkeznek a mágiahasználat képességével. Azonban ebben ők nem olyan hatékonyak mint varázslótársaik, csak a saját affinitásukat és elsőrendű mágiájukat tudják használni.
 
 A következőkkel rendelkeznek még:
@@ -22,7 +22,7 @@ A következőkkel rendelkeznek még:
 
 ![[Elsőrendű varázslatok]]
 
-## Evolválók
+#### Evolválók
 A természetfelettiek közül azok akik nem tudnak varázsolni általában jobban rátámaszkodnak saját képességükre, ebből fakadóan sok extra lehetőséget találnak abban.
 
 **Képesség evolúció**
@@ -67,7 +67,7 @@ Vegyünk egy példát, hogy a karakter megszerzi az **Evolváló** alosztályt, 
 >    - **Evolvált Képesség Példa:** **Éleslátás a Magasból (Passzív):** Amíg a karakter repül, megnő a látómezeje, könnyebben észreveszi a rejtőzködő dolgokat vagy lényeket a földön/alatta. Kaphat bónuszt a Keresés próbákra repülés közben.
 >- **Védelmi Evolúció:**
 >    - **Koncepció:** A repülés képesség használható védekezésre.
->    - **Evolvált Képesség Példa:** **Szélhámozás (Akció):** Akcióként a karakter egy gyors, evasív manővert hajt végre a levegőben, ami nehezíti a célzást. Következő ellene irányuló támadások hátránnyal jönnek/AC bónuszt kap (pl. +2 AC 1 körig).
+>    - **Evolvált Képesség Példa:** **Szélhámozás (Akció):** Akcióként a karakter egy gyors, evasív manővert hajt végre a levegőben, ami nehezíti a célzást. Következő ellene irányuló támadások hátránnyal jönnek / Target Defense bónuszt kap (pl. +2 Target Defense 1 körig).
 >- **Meta Evolúció:**
 >    - **Koncepció:** A repüléshez kapcsolódó új, másodlagos hatás vagy képesség megjelenése.
 >    - **Evolvált Képesség Példa:** **Aerodinamikus Löket (Akció):** Akcióként a karakter képes egy rövid, éles széllökést kibocsátani repülés közben, ami egy kisebb céltárgyat/lényt ellök vagy felborít. Vagy **Szárnyak Zúgása (Passzív):** Repülés közben a teste körül állandóan egy gyenge szél aura van, ami a közelébe érő lövedékeket enyhén eltérítheti (pl. -1 a sebzésre a lövedékektől).

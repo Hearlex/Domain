@@ -12,5 +12,14 @@
       ],
       "key": "'"
     }
-  ]
+  ],
+  "break-page:insert-break-page": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": []
 }

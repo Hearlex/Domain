@@ -8,6 +8,8 @@
   "fancy-a-story@@theme-variant-light": "fas-silver-light",
   "fancy-a-story@@fas-floating-mode-button": "enable",
   "fancy-a-story@@fas-background-image": false,
-  "fancy-a-story@@fas-note-background-image": false,
-  "fancy-a-story@@banner-print-width": "full-bleed"
+  "fancy-a-story@@fas-note-background-image": true,
+  "fancy-a-story@@banner-print-width": "full-bleed",
+  "fancy-a-story@@fas-skin-select": "none",
+  "fancy-a-story@@pdf-invert-dark": "enable"
 }

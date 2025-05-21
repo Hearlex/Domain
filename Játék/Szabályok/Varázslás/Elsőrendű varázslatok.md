@@ -1,4 +1,5 @@
-Minden kasztoló rendelkezik spell slotokkal. A spell slotok száma a következő képpen számolható ki: $$ slots = INT * 2 $$Ezekbe a slotokba előre bekészített mágiákat lehet behelyezni és kicserélni. A bekészítéshez nyugalomra és megváltoztatott képességenként 1 órára van szükség. Varázslatot a játékos állítja össze a karaktere által megtanult formából, időből, médiumból és hatásból.
+Minden kasztoló rendelkezik spell slotokkal. A spell slotok száma a következő képpen számolható ki:
+$$ slots = INT * 2 $$Ezekbe a slotokba előre bekészített mágiákat lehet behelyezni és kicserélni. A bekészítéshez nyugalomra és megváltoztatott képességenként 1 órára van szükség. Varázslatot a játékos állítja össze a karaktere által megtanult formából, időből, médiumból és hatásból.
 Ennek lépései:
 1. Amennyiben van több affinitása a mágusnak vagy szellemidézőt játszik a játékos, ki kell, hogy válassza melyik energiát szeretné felhasználni. Ez alól csak a párhuzamos energiák használata lehet kivétel (amit csak azoknál a hatásoknál lehet használni, ahol legalább az egyik haladó szinten áll).
 2. Amennyiben szabadon alakítható a médium a játékos kiválasztja a varázslat médiumát, azaz, hogy milyen módon történik a varázslat kivitelezése. Ebbe bele tartozik az idő, a forma, a méret és az erősség is. A részletes leírást a [[Varázslat és varázskörök]] írja le.

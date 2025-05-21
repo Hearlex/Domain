@@ -1,18 +1,55 @@
-A karakterkészítés a következő lépésekből áll:
-## 1. Faj választás
-A karakterkészítés első lépése, hogy kiválasztjuk milyen fajjal szeretnénk játszani. Bár vannak olyan karakterértékek amik bizonyos osztályok és skillfák esetében hasznosabbak, de a játék jelentős részében nincs szükség minmaxolásra, ahhoz hogy élvezhető karaktereket lehessen alkotni.
+## Karakteralkotás: A Kalandod Kezdete
 
-## 2. Osztály választás
-A világban mindenki rendelkezik valamilyen osztállyal. Az is aki nem! Az osztályok besorolják az embereket az alapján, hogy milyen speciális képességet kaptak a világtól. Vannak akik természetfeletti áldásokat kaptak, mások képesek a kristályok segítségével varázsolni és megint mások pedig lelkeket tudnak kötni. Azok akik ezek egyikével sem rendelkeznek, pedig sokkal jobban tudnak fokuszálni a hétköznapi skillfákra. Gondold át és válaszd ki, hogy a karaktered melyik osztályba kerül. Amennyiben a játékmestered engedi, a varázslóknál akár több affinitást is választhatsz.
+Karaktered megalkotása izgalmas utazás, amely során egyedi hőst formálhatsz, aki készen áll a világ kihívásaira. Ne feledd, a legfontosabb, hogy olyan karaktert alkoss, akivel szívesen játszol!
 
-## 3. Kezdeti képességek
-Kezdetben minden karakter 10 szabadon felhasználható tudásponttal rendelkezik. Bármelyik a karaktered számára elérhető skillfában elindulhatsz és kifejleszthetsz valamilyen képességet.
+### 1. Faj kiválasztása
 
->[!info]
->A fák elkezdéséhez szükséges kezdőpont 1 pont-ot igényel
+A karakteralkotás első lépése, hogy kiválasztod azt a **fajt**, amelyhez karaktered tartozik. Bár bizonyos fajok jobban kiegészíthetnek bizonyos osztályokat vagy képességfákat, ne aggódj a "minmaxolás" miatt! A játék a legtöbb esetben akkor a legélvezetesebb, ha a karaktereddel való azonosulás és a történet szempontjából hozod meg a döntéseket.
 
-## Mindeközben a történeted
-Mindeközben ne felejtsd el, hogy egy jó karakter rendelkezik valamilyen háttértörténettel is. Ha van egy ötleted, akkor az alapján válassz fajt és osztályt, hogy mi illik abba a történetbe! Illetve a kezdeti képességeket is ez alapján válaszd ki! Például szeretnél egy több száz éves kardmestert játszani? Válaszd ki az elfeket és a szakértő osztályt, majd tedd bele az összes pontodat a fegyverfánál (kard) található képességekbe. Vagy szeretnél egy mágikus ezermester törpét játszani? Akkor válaszd ki a törpét és a mágust, majd tegyél pontokat egyszerűbb mágiafába és valamelyik mesterségfába!
+### 2. Osztály meghatározása
 
-### A karaktered személyisége
-A karakterednek nagyon fontos, hogy legyen személyisége. De az mégfontosabb, hogy mindenki jól érezze magát a játékasztalnál. A karakterek személyisége lehet gonosz, jó, vicces vagy buta. A játékmechanikáját ez nem változtatja, így nyugodtan választhatsz olyan személyiséget amit szívesen eljátszanál, és nem kell, hogy azon aggódj, hogy ez hogyan fogja befolyásolni a játékodat. Arra azonban ügyelj, hogy másnak se vedd el a kedvét, például önző vagy magányos karakterekkel. Ha ilyenekkel játszanál, érdemes kitűzni célul, hogy a karaktered valamilyen személyiségváltozáson menjen keresztül, így nyitott leszel alakítani a karaktereden úgy, ahogy az asztal igényli!
+Ebben a világban mindenki rendelkezik valamilyen **osztállyal** – még azok is, akik látszólag "semmilyennel" sem. Az osztályok a speciális képességeket és adottságokat tükrözik, amelyekkel a világ megajándékozott valakit. Vannak, akik természetfeletti áldásokban részesültek, mások a kristályok erejét használva varázsolnak, megint mások pedig lelkeket kötnek magukhoz. Azok pedig, akik egyikkel sem rendelkeznek, gyorsabban fejlődnek a "hétköznapinak" tűnő képességekkel.
+
+Gondold át, milyen utat járna be a karaktered, és válaszd ki ehhez illő osztályát! Amennyiben a mesélőd engedélyezi, a varázslók esetében akár több **affinitást** is választhatsz, még gazdagabbá téve mágikus tudásodat.
+
+### 3. Kezdeti képességek elsajátítása
+
+Kezdésként minden karakter **10 szabadon felhasználható tudásponttal** rendelkezik. Ezeket a pontokat arra használhatod fel, hogy bármely, a karaktered számára elérhető **képességfában** elindulj, és kifejlessz valamilyen képességet.
+
+> [!info]
+> 
+> Egy új képességfa megkezdéséhez 1 tudáspont szükséges. Bizonyos képességfák, például a [[Fegyverfa]] többször is megkezdhető, minden fegyverre külön-külön.
+
+### 4. Karakterértékekből való számítások
+
+Miután a karaktered értékeit kiszámoltad a fajból kiindulva, majd az osztály és skillfák alapján módosítva, van még néhány érték amit szintén frissítened kell:
+- Health Point: A HP-dhoz minden egyes TGH módosítóért 5 életet kell hogy hozzáadj (vagy kivonj, ha negatív a módosítód).
+- Védelmi értékek számítása: Minden ellened tett támadás a védelmi értékekből számítható, hogy sikeres vagy sikertelen. Számítsd ki a védelmi értékeket az alábbi módon:
+	- **Target Defense** - Számítása: 5 + SPD + AP
+	- **AoE Defense** - Számítása: 5 + DEX
+	- **Mental Defense** - Számítása: 5 + WIL
+- Limitációs értékek számítása: A karakternek vannak limitációi. Ezek közül a varázslásban és az ismerkedésben levő értékeket a karakter szellemi értékeiből számíthatod ki, míg az mozgást a sebességből:
+	- **Relations** - Számítása: CHA
+	- **Strings** - Számítása: INT / 2 (felfelé kerekítve), minimum 1.
+	- **Movement** - Számítása: (SPD + 3) méter, minimum 3.
+
+---
+
+### Karaktered Története és Személyisége
+
+A mechanikai alapok mellett egy jó karakterhez elengedhetetlen egy gazdag **háttértörténet** és egy megkapó **személyiség**.
+
+#### A Háttértörténet Jelentősége
+
+A karakteralkotás során folyamatosan tartsd szem előtt karaktered lehetséges **háttértörténetét**! Bár mechanikai előnnyel nem jár, gyakran a leginspirálóbb, ha először a történetet képzeled el, majd ez alapján választasz fajt és osztályt, amelyek illeszkednek ehhez az elképzeléshez. Ugyanígy, a kezdeti képességeket is e történet mentén érdemes kiválasztani.
+
+**Példák:**
+
+- Szeretnél egy évszázadokat megélt kardmestert alakítani? Válaszd az **elfeket** és a **Szakértő** osztályt, majd fektess be minden pontot a fegyverfában (kard) található képességekbe!
+- Inkább egy mágikus ezermester törpét játszanál? Akkor válassza a **törpét** és a **Mágust**, majd ossz el pontokat egy egyszerűbb mágiafába és valamelyik mesterségfába!
+
+#### Karaktered Személyisége
+
+Karaktered **személyisége** rendkívül fontos, de még fontosabb, hogy mindenki jól érezze magát az asztalnál. A karakterek lehetnek gonoszak, jók, viccesek vagy akár buták – a játékmechanikát ez nem befolyásolja, így nyugodtan választhatsz olyan személyiséget, amivel szívesen játszanál.
+
+**Fontos tanács:** Ügyelj arra, hogy a választott személyiség ne vegye el mások kedvét a játéktól (például önző vagy magányos karakterekkel). Ha mégis ilyen karaktert szeretnél játszani, érdemes célul kitűzni, hogy a karaktered valamilyen **személyiségfejlődésen** menjen keresztül a kalandok során. Így nyitott maradsz a karaktered alakítására, ahogy azt a közös játék megkívánja!
