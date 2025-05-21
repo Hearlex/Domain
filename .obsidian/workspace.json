@@ -86,7 +86,7 @@
             }
           },
           {
-            "id": "463e1442a612ad8a",
+            "id": "8b1fe52d40cd5e37",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
+                "file": "Domain of the 8 Shards - Player's Handbook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Emberek"
+              "title": "Outline of Domain of the 8 Shards - Player's Handbook"
             }
           },
           {
@@ -259,10 +259,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "463e1442a612ad8a",
+  "active": "a5a525462c3124c6",
   "lastOpenFiles": [
-    "Világ/Fajok/Evolúciós gráfok/Evolúciós Gráf.md",
+    "Világ/Osztályok/Szellemidézők, használók.md",
+    "Világ/Kristályok/Elektromosság.md",
     "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
+    "Világ/Fajok/Evolúciós gráfok/Evolúciós Gráf.md",
     "Világ/Fajok/Emberek.md",
     "Játék/Szabályok/Fajok/Ember.md",
     "Domain of the 8 Shards - Player's Handbook.md",
@@ -291,7 +293,6 @@
     "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
     "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
     "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mentális Kitartás & Fókusz.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mágikus & Spirituális Ismeretek.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Nyelv.canvas",
