@@ -1,18 +1,36 @@
-Lásd: [[Emberek]]
+Lásd még: [[Emberek]]
+
+_Az emberi faj nem volt mindig része e világnak, a [[II. Kor]]ban jelentek meg, mint a leginvazívabb faj. Bár semmiben sem voltak kiemelkedőek, kivételes alkalmazkodóképességük és gyors szaporodásuk révén a [[III. Kor]] közepére az emberi városok és falvak uralták a világot. Rövid élettartamuk ellenére sokrétű érdeklődésükkel és a környezethez való egyedi asszimilációs képességükkel képesek voltak megállni a helyüket a legkülönfélébb tájakon is, kivéve az Elektromosság Monolit Félszigetét avagy a Túlvilágot, ahol a különleges kristályokhoz való affinitásuk a leggyengébb._
+
+---
+
+### Alap Statisztikák
+
+Az emberi karakterek a következő alap statisztikákkal és kezdőértékekkel rendelkeznek:
 
 | STR | TGH | SPD | DEX | INT | CHA | WIS | WIL | PER | LUC |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| +1  | +1  | +1  | +1  | +1  | +1  | +1  | +1  | +1  | 0   |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | 0 |
 
-HP: 25
-MP: 100
+### Kezdő Erőforrások
 
-**Kulturális fejlettség**
-Mivel az emberek a legfejlettebbek a kultúrájuk tekintetében és népességük tekintetében, alapból könnyebben sajátítanak el, bármilyen Mesterségek & Hivatások képességet.
-A tanulásnál 1 ponttal kevesebb szükséges a Mesterségek & Hivatások alatt található skillfák megtanulásával kapcsolatban. A tanulás ára nem csökkenhet 1 pont alá, hacsak nem alapból is annyi volt.
+| Érték                | Alapérték |
+| :------------------- | :-------- |
+| **Életerőpont (HP)** | 25        |
+| **Manapont (MP)**    | 100       |
 
-**Eltökélt mesterség**
-Az emberek nagyon rövid élettel rendelkeznek. Életük első szakaszában általában megtalálják mivel szeretnének foglalkozni. A karakter készítésekor válassz ki egy skillfát és minden ahhoz a skillfához megtanult skill fele annyi tapasztalatpontba kerül. Az értékeket felfelé kell kerekíteni, és 1-nél nem lehet kevesebb a költség.
+### Fajspecifikus Képességek
 
-**Könnyebb alkalmazkodás**
-Az emberek könnyen felejtenek és könnyen tanulnak. Ennek következtében, a karaktered minden hosszú pihenésnél elfelejthet egy skill-t és az arra fordított pontokat megkaphatja, hogy új skillt tanuljon belőle akármelyik skillfában.
+Az emberek veleszületett tulajdonságokkal rendelkeznek, melyek egyedivé teszik őket a többi faj között:
+
+#### Kulturális Fejlettség
+
+Az emberiség kulturális és népességi fölénye lehetővé teszi számukra, hogy könnyebben sajátítsanak el bármilyen **Mesterségek & Hivatások** képességet. Ennek köszönhetően a karakterednek 1 ponttal kevesebbe kerül ezen képességfák megtanulása. Fontos: a tanulás költsége nem csökkenhet 1 pont alá, hacsak az alapértelmezett költség sem volt több 1 pontnál.
+
+#### Eltökélt Mesterség
+
+Rövid életük során az emberek gyorsan megtalálják céljukat és szenvedélyesen elköteleződnek választott hivatásuk mellett. Karakterkészítéskor válassz ki egyetlen skillfát. Az ehhez a skillfához tartozó képességek megszerzése feleannyi tapasztalatpontba kerül. Az értékeket felfelé kell kerekíteni, és a költség nem lehet kevesebb 1 pontnál.
+
+#### Könnyebb Alkalmazkodás
+
+Az emberek kivételes alkalmazkodóképességükről híresek: könnyen felejtenek, és még könnyebben tanulnak. Minden Hosszú Pihenés alkalmával a karaktered elfelejthet egy általa ismert skillt. Az erre a skillre fordított összes tapasztalatpontot visszakapod, és azt szabadon felhasználhatod bármely más elérhető skillfa bármely skilljének megtanulására.

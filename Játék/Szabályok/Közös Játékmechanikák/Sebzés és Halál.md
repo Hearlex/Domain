@@ -1,3 +1,18 @@
+## Sebzés fajták
+
+| Sebzés Típusa  | Leírás                                                                                                                                                |
+| :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fizikai**    | Sarló, kalapács, dárda, kard, ökölcsapás, esés, ütés, stb. által okozott sérülés.                                                                     |
+| **Mentális**   | Elmebéli támadás, illúziók, félelem, pszichikai sokk, elmezavarás, vagy elme kontrollja.                                                              |
+| **Tűz**        | Égés, lángok, hőhullám, vulkanikus kitörés vagy olvadt anyag által okozott sérülés.                                                                   |
+| **Szél**       | Vihar, tornádó, légnyomás-változás, szélvágás vagy légáramlatok által okozott sérülés.                                                                |
+| **Víz**        | Fulladás, vízsugár, áradás, víz alatti nyomás vagy vízköpeny által okozott sérülés.                                                                   |
+| **Jég**        | Fagyás, hideg, jégtörés, jégkristályok vagy hipotermia által okozott sérülés.                                                                         |
+| **Föld**       | Kőomlás, sziklák, földrengés, iszaplavina, föld alá temetés vagy talajmanipuláció.                                                                    |
+| **Elektromos** | Villám, áramütés, statikus feltöltés, elektromos ív vagy energiapurpulás.                                                                             |
+| **Kontraszt**  | A valóság szövetének, vagy a fizikai törvényeknek a manipulálásával, torzításával okozott sebzés, a lelkeknek okozott közvetlen sebzés.               |
+| **Cringe**     | Kínos, kellemetlen, vagy borzasztóan rossz előadás/helyzet által okozott érzelmi/lelki sebzés. Általában a játékmester osztja a játék megzavarásáért. |
+## Halál
 Amennyiben a karakter élete 0 alá esik eszméletlen állapotba kerül. Ha a karakter életének kétszeresét kapja sebzésként, akkor azonnal bekövetkezik a halál. Eszméletlen karaktereket ki lehet végezni (bizonyos esetekben eszméletvesztés lépését ki lehet hagyni).
 
 Halál bekövetkeztekor a játékosok az alábbi négy opció közül választhatnak:

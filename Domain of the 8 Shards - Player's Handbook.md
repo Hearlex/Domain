@@ -29,6 +29,7 @@ debugInConsole: false # Print debug info in Obsidian console
 
 Fajok listája:
 - [[Ember]]
+<div class="page-break" style="page-break-before: always;"></div>
 
 ### Ember
 ```meta-bind-embed
