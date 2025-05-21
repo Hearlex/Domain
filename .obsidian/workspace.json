@@ -84,9 +84,26 @@
               "icon": "lucide-file",
               "title": "Domain of the 8 Shards - Player's Handbook"
             }
+          },
+          {
+            "id": "463e1442a612ad8a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
+                "viewState": {
+                  "x": -10,
+                  "y": -20,
+                  "zoom": -0.6852962318805503
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Emberek"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain of the 8 Shards - Player's Handbook.md",
+                "file": "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domain of the 8 Shards - Player's Handbook"
+              "title": "Outline of Emberek"
             }
           },
           {
@@ -242,10 +259,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5a525462c3124c6",
+  "active": "463e1442a612ad8a",
   "lastOpenFiles": [
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Világ/Fajok/Evolúciós gráfok/Evolúciós Gráf.md",
+    "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
+    "Világ/Fajok/Emberek.md",
+    "Játék/Szabályok/Fajok/Ember.md",
     "Domain of the 8 Shards - Player's Handbook.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
     "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
     "Játék/Szabályok/Osztályok/Természetfeletti.md",
     "Játék/Szabályok/Osztályok/Szakértő.md",
@@ -258,7 +279,6 @@
     "Játék/Szabályok/Skillfák/Kész/Harci Készségek/Kézitusa & Birkózás.canvas",
     "Játék/Szabályok/Skillfák/Kész/Fizikai és Mozgás Készségek/Akrobatika & Kitérés.canvas",
     "Világ/Mágia/Varázslat és varázskörök.md",
-    "Játék/Szabályok/Fajok/Ember.md",
     "Játék/Szabályok/Skillfák/Kész/Harci Készségek/Taktika & Harcászat.canvas",
     "Játék/Szabályok/Skillfák/Kész/Szociális & Interakciós Készségek/Előadás & Karizma.canvas",
     "Világ/Mágia/Mágia formái.md",
@@ -272,15 +292,11 @@
     "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
     "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
     "Játék/Szabályok/Közös Játékmechanikák/Előnyök és hátrányok.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Dobások.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
-    "Játék/Teszt/Gregor Terbinger.md",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mentális Kitartás & Fókusz.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mágikus & Spirituális Ismeretek.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Nyelv.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Kereskedelem.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Irás és Olvasás.canvas",
-    "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Etikett.canvas",
     "Világ/Képek/Elektromosság kristály.png",
     "Világ/Képek/Föld kristály.png",
     "Világ/Képek/Tér és Idő kristály.png",
