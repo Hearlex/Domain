@@ -8,102 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "817e28efdceea377",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Tárgyak/Fegyverek.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Fegyverek"
-            }
-          },
-          {
-            "id": "926a726aa935cd64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Tárgyak/Védőfelszerelések.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Védőfelszerelések"
-            }
-          },
-          {
-            "id": "7121cf8d67ff5ce4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Karakterértékek"
-            }
-          },
-          {
-            "id": "24f986ce4c7e062c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Karakterkészítés"
-            }
-          },
-          {
-            "id": "a5a525462c3124c6",
+            "id": "c893ab87eedeb175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain of the 8 Shards - Player's Handbook.md",
+                "file": "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain of the 8 Shards - Player's Handbook"
+              "title": "Elsőrendű varázslatok"
             }
           },
           {
-            "id": "8b1fe52d40cd5e37",
+            "id": "0cddd0f43756b149",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
-                "viewState": {
-                  "x": -10,
-                  "y": -20,
-                  "zoom": -0.6852962318805503
-                }
+                "file": "Játék/Szabályok/Osztályok/Mágus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Emberek"
+              "icon": "lucide-file",
+              "title": "Mágus"
+            }
+          },
+          {
+            "id": "2c7582c582ce3f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Akciók"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain of the 8 Shards - Player's Handbook.md",
+                "file": "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domain of the 8 Shards - Player's Handbook"
+              "title": "Outline of Elsőrendű varázslatok"
             }
           },
           {
@@ -259,23 +205,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5a525462c3124c6",
+  "active": "c893ab87eedeb175",
   "lastOpenFiles": [
+    "Játék/Szabályok/Közös Játékmechanikák/Akciók.md",
+    "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
+    "Domain of the 8 Shards - Player's Handbook.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
+    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
+    "Játék/Szabályok/Osztályok/Mágus.md",
+    "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
     "Világ/Osztályok/Szellemidézők, használók.md",
     "Világ/Kristályok/Elektromosság.md",
-    "Világ/Fajok/Evolúciós gráfok/Emberek.canvas",
     "Világ/Fajok/Evolúciós gráfok/Evolúciós Gráf.md",
     "Világ/Fajok/Emberek.md",
     "Játék/Szabályok/Fajok/Ember.md",
-    "Domain of the 8 Shards - Player's Handbook.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterkészítés.md",
-    "Játék/Szabályok/Varázslás/Elsőrendű varázslatok.md",
     "Játék/Szabályok/Osztályok/Természetfeletti.md",
     "Játék/Szabályok/Osztályok/Szakértő.md",
-    "Játék/Szabályok/Osztályok/Mágus.md",
     "Játék/Szabályok/Osztályok/Szellemidéző.md",
     "Pasted image 20250520233621.png",
-    "Játék/Szabályok/Közös Játékmechanikák/Karakterértékek.md",
     "Játék/Tárgyak/Védőfelszerelések.md",
     "Játék/Tárgyak/Fegyverek.md",
     "Játék/Szabályok/Skillfák/Kész/Harci Készségek/Kézitusa & Birkózás.canvas",
@@ -287,12 +235,10 @@
     "Világ/Mágia/Mágia képe.md",
     "Világ/Mágia/Fonal.md",
     "Játék/Szabályok/Közös Játékmechanikák/Tárhely.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Mozgás.md",
     "Játék/Szabályok/Közös Játékmechanikák/Stresszes események.md",
     "Játék/Szabályok/Közös Játékmechanikák/Státuszhatások.md",
     "Játék/Szabályok/Közös Játékmechanikák/Sebzés és Halál.md",
     "Játék/Szabályok/Közös Játékmechanikák/Pénzérték.md",
-    "Játék/Szabályok/Közös Játékmechanikák/Gyengeségek, ellenállások és immunitások.md",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mentális Kitartás & Fókusz.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Tudás & Mentális Készségek/Mágikus & Spirituális Ismeretek.canvas",
     "Játék/Szabályok/Skillfák/Tervezésalatt/Szociális & Interakciós Készségek/Nyelv.canvas",

@@ -1,33 +1,58 @@
-A karakterek alapértelmezetten a következő statokkal/skillekkel kezdenek. Ami mellett +- jelenik meg, az azt jelenti, hogy a dobások során maga az érték módosítóként használható. Alapértelmezetten mindegyik fizikai és szellemi érték 0-ról indul.
+# Karakterjellemzők: Statisztikák és Képességek
 
-**Fizikai értékek:**
-- **Strength** *(+- a dobáshoz)* - Azt mutattja mennyire erős a karakter, gyakran támadásoknál használható, valamint ebből származik a teherbírás és fegyver/páncél követelmények.
-- **Toughness** *(+- a dobáshoz)* - A maximum életet, a gyógyulás mértékét és a mérgek, betegségek, természeti hatások ellenállását (pl. hőmérséklet) mutattja.
-- **Speed** - Sebesség minden értelemben. Az akciók száma, a mozgás távolsága és hasonló értékek is ebből számolódnak. Nagyon fontos továbbá a Target Defense értékhez is.
-- **Dexterity** *(+- a dobáshoz)* - Mozgékonyság. Ide kapcsolódik minden ügyességet igénylő tevékenység valamint pontosság. Ebből számolódik az AoE defense
+Karakteredet különböző alapvető statisztikák és erőforrások jellemzik, amelyek meghatározzák képességeit a világban. Ezek az értékek adják karaktered mechanikai alapját, és kiindulópontul szolgálnak a kalandok során.
 
-**Szellemi értékek:**
-- **Intelligence** *(+- a dobáshoz)* - A karakter problémamegoldó készsége, nyelvismerete, mágiahasználata mind ehhez kötődik.
-- **Charisma** *(+- a dobáshoz)* - Egy mérték ami meghatározza a karakterek kiállását és szociális készségeit. A szépség nem számít karizmának. Kereskedésben, politikában valamint megfélemlítésben hasznosak lehetnek.
-- **Wisdom** *(+- a dobáshoz)* - Bölcsesség alatt tapasztalatot és a józan paraszti eszet értjük. Ide tartozik a spiritualitás is. A térképek olvasásától, a szellemlényekkel való kapcsolatig kitart hatóköre.
-- **Willpower** *(+- a dobáshoz)* - Mentális kihívások leküzdésére valamint azok általi hatáskifejtésre is fontos ez az érték. Ebből számolódik továbbá a Mental Defense is.
-- **Perception** *(+- a dobáshoz)* - A karakter környezetére való figyelmességét mutatja. Minél magasabb, annál nehezebben lehet meglepni az adott karaktert rejtőzködő ellenségek vagy csapdák segítségével. Valamint hatékonyabban lehet keresni valamely érzékszervével a karakternek. A személyek érzéseit szintén jobban lehet olvasni. (Aminél nagyobbat kell dobni). A Passive Perception érték is ebből kerül számításra: Passive Perception = 10 + PER.
-- **Luck** *(+- a dobáshoz)* - Szerencse. Amennyiben a karakteren kívül álló cselekmény történik, a szerencse befolyásolja azt.
+A karakterek alapértelmezés szerint a következő statisztikákkal és értékekkel kezdenek. Azoknál az értékeknél, amelyek mellett **(+- a dobáshoz)** jelzés szerepel, az adott statisztika maga is módosítóként használható a kapcsolódó dobásokhoz. Alapértelmezés szerint minden fizikai és szellemi statisztika **0-ról** indul.
 
-**Fogyasztható / limit értékek:**
-- **Health Point (HP)** - A karakterek jelenlegi / maximum élete. A maximum élet alapértelmezetten fajtól függ, általában 25 közeli. A TGH score 5 életet ad minden értékért, a faj alapértelmezett élet nem tartalmazza a TGH score bónuszait. Az élet pihenésekkel vagy fogyasztható termékek segítségével töltődik vissza.
-- **Mana Point (MP)** - Egységnyi mana, egy apró kristály használatára elegendő. Azaz egyetlen hatás végrehajtására. A karakterek manája szinttől, fajtól és osztálytól eltérő lehet. A Mágusok saját manaként használják, szellemidézők a környezet energiájaként amit hasznosítani tudnak, a természetfelettiek pedig a saját képességük költségeként. Alapértelmezetten akiknél jelen van 100-tól indul, a mana alapértelmezetten nem töltődik vissza.
-- **Weight Limit** - Megadja mennyit cipelhet a karakter. Ezenfelül egyszerűen nem képes elbírni a tárgyat/tárgyakat. Táskától függ! Több infó: [[Tárhely]]
-- **Armor Point (AP)** - A pajzsok és páncélok hordásával növelhető,  alapértelmezetten 0. Minden damageből AP mennyiséget csökkenthet a karakter (ezt leveszi az APból), körönként visszakapja. Armor semlegesíthető *Armor Penetration* módosító által. Számolásnál az AP a jelenlegi értéket jelenti.
-- **Relations** - Karizma alapú érték, ami megmondja hány kapcsolatot lehet fenttartani egy karakternek. Lásd: [[Relations]]. Számítása: CHA
-- **Strings** - A varázslat során felhasznált érték. Mutatja hogy hány hatást hány célra lehet használni. Lásd: [[Fonal]]. Számítása: INT / 2 (felfelé kerekítve), minimum 1.
-- **Movement** - Mozgás távolsága, Movement = (SPD + 3) méter, minimum 3.
+## Statisztikák
 
-**Védekező értékek:**
-- **Target Defense** - Ezt az értéket kell figyelni támadásnál, ha konkrét célpontként támadják a karaktert. Számítása: 5 + SPD + AP
-- **AoE Defense** - Ezt az értéket a területi támadások során kell figyelembe venni. Ha nem sikerül megdobni fél sebzést, ha a felét (lefelé kerekítve) sem sikerül megdobni 0 sebzést lehet számítani. Számítása: 5 + DEX
-- **Mental Defense** - Ez a védekezés számolható mind mágikus hatások, mind mentális támadások ellen is. Számítása: 5 + WIL
+### Fizikai Statisztikák
 
-**Egyéb érték(ek):**
-- **Level** - Szintérték. Elsősorban a szörnyek vagy mutánsok erejét osztályozzák vele. Jelentése, 2^n lény erejével bír, ahol n a szint értéke. A szintezés 0-ról indul és a legtöbb játékban a karakterek nem is lépnek szintet. Minden egyéb érték a 2^n-szeresére nő, (külön kell vezetni a szintből származó értékeket, az alapértelmezettektől).
-- ***Experience*** - A tapasztalat valójában nem kerül feltüntetésre a karakter lapon ezért nem számít bele valójában a karakterértékekbe. A játékok során szerzett tapasztalat, a képességek fejlesztésére költhető a képességgráfon való haladással.
+| Statisztika (Angol / Magyar)   | Módosító      | Leírás és Elsődleges Hatása                                                                                                                                                              |
+| :----------------------------- | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Strength (STR) / Erő**       | +- a dobáshoz | A karakter fizikai erejét méri. Gyakran használatos támadó dobásokhoz, befolyásolja a teherbírást, valamint a fegyver- és páncélkövetelményeket.                                         |
+| **Toughness (TGH) / Kitartás** | +- a dobáshoz | Meghatározza a maximális Életerőpontot (HP), a gyógyulás mértékét, és az ellenállást mérgekkel, betegségekkel, valamint természeti hatásokkal (pl. hőmérséklet) szemben.                 |
+| **Speed (SPD) / Sebesség**     | -             | A karakter sebességét jelöli minden értelemben. Ebből számolódik az akciók száma, a mozgás távolsága és egyéb hasonló értékek. Kritikus a Célpont Védelem (Target Defense) számításához. |
+| **Dexterity (DEX) / Ügyesség** | +- a dobáshoz | A karakter mozgékonyságát, ügyességét és precizitását tükrözi. Minden ügyességet igénylő tevékenységhez és pontossághoz kapcsolódik. Ebből számolódik a Területi Védelem (AoE Defense).  |
+
+### Szellemi Statisztikák
+
+| Statisztika (Angol / Magyar)           | Módosító      | Leírás és Elsődleges Hatása                                                                                                                                                                                                                                                                                                                       |
+| :------------------------------------- | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Intelligence (INT) / Intelligencia** | +- a dobáshoz | A karakter problémamegoldó képessége, nyelvtudása és mágiahasználata mind ehhez a statisztikához kötődik.                                                                                                                                                                                                                                         |
+| **Charisma (CHA) / Karizma**           | +- a dobáshoz | Egy mérőszám, amely a karakter kiállását, meggyőző erejét és szociális készségeit határozza meg. Nem azonos a szépséggel. Hasznos kereskedésben, politikában és megfélemlítésben.                                                                                                                                                                 |
+| **Wisdom (WIS) / Bölcsesség**          | +- a dobáshoz | Bölcsesség alatt az évekkel járó tapasztalatot és a józan paraszti eszet értjük. Ide tartozik a spiritualitás is. Hatóköre a térképek olvasásától a szellemlényekkel való kapcsolattartásig terjed.                                                                                                                                               |
+| **Willpower (WIL) / Akaraterő**        | +- a dobáshoz | Fontos érték a mentális kihívások leküzdésére, valamint a mágikus hatások kivédésére. Ebből számolódik továbbá a Mentális Védelem (Mental Defense) is.                                                                                                                                                                                            |
+| **Perception (PER) / Érzékelés**       | +- a dobáshoz | A karakter környezetére való figyelmességét mutatja. Minél magasabb, annál nehezebben lehet meglepni rejtőzködő ellenségekkel vagy csapdákkal. Hatékonyabbá teszi az érzékszervekkel való keresést, és segíti a személyek érzéseinek olvasását. A Passzív Érzékelés (Passive Perception) értéke ebből számolódik: `Passzív Érzékelés = 10 + PER`. |
+| **Luck (LCK) / Szerencse**             | +- a dobáshoz | Szerencse. Amennyiben a karakteren kívül álló, véletlenszerű esemény történik, a szerencse befolyásolja annak kimenetelét.                                                                                                                                                                                                                        |
+
+## Egyéb Értékek és Erőforrások
+
+Ezek az értékek a karakter pillanatnyi erőforrásait, védekezési képességeit vagy speciális mechanikáit mutatják.
+
+### Fogyasztható / Limit Értékek
+
+| Érték (Angol / Magyar)              | Leírás és Számítása                                                                                                                                                                                                                                                                                                                                       |
+| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Health Point (HP) / Életerőpont** | A karakter jelenlegi és maximális életerejét jelöli. A maximális HP alapértelmezés szerint fajtól függ, általában 25 körüli. A TGH (Kitartás) minden pontja 5 életerőt ad, a faj alapértelmezett élete nem tartalmazza a TGH bónuszait. Az élet pihenésekkel vagy fogyasztható tárgyak segítségével töltődik vissza.                                      |
+| **Mana Point (MP) / Manapont**      | Egységnyi mana, amely egy apró kristály használatára vagy egyetlen varázshatás végrehajtására elegendő. A karakterek manája szinttől, fajtól és osztálytól eltérő lehet. Alapértelmezés szerint, akinél jelen van, 100-tól indul, és alapértelmezés szerint nem töltődik vissza automatikusan.                                                            |
+| **Weight Limit / Teherbírás**       | Megadja, mennyi súlyt cipelhet a karakter. Ezenfelül egyszerűen nem képes elbírni a tárgyat/tárgyakat. A teherbírás táskától függ. További információk: [[Tárhely]].                                                                                                                                                                                      |
+| **Armor Point (AP) / Páncélpont**   | A pajzsok és páncélok viselésével növelhető, alapértelmezés szerint 0. Minden bejövő sebzésből az AP mennyisége levonható, az elhasznált pontok az AP értékét csökkentik, majd körönként visszatöltődik. A páncélzat semlegesíthető *Páncélátütés (Armor Penetration)* módosító által. Számításnál az AP a jelenlegi, rendelkezésre álló értéket jelenti. |
+| **Relations / Kapcsolatok**         | Karizma (CHA) alapú érték, amely megmondja, hány jelentős kapcsolatot tud fenntartani egy karakter. Lásd: [[Relations]].<br>**Számítása:** CHA.                                                                                                                                                                                                           |
+| **Strings / Fonalak**               | A varázslatok során felhasznált érték. Azt mutatja, hány hatást, hány célpontra lehet kifejteni. Lásd: [[Fonal]].<br>**Számítása:** INT / 2 (felfelé kerekítve), minimum 1.                                                                                                                                                                               |
+| **Movement / Mozgás**               | A karakter mozgásának távolsága [[Stresszes események]] alatt.<br>**Számítása:** `Movement = (SPD + 3) méter`, minimum 3 méter.                                                                                                                                                                                                                           |
+
+### Védekező Értékek
+
+| Érték (Angol / Magyar)                     | Leírás és Számítása                                                                                                                                                                                                                                                                |
+| :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Target Defense (TD) / Célpont Védelem**  | Ezt az értéket kell figyelni támadásnál, ha konkrét célpontként támadják a karaktert.<br>**Számítása:** `5 + SPD + AP`.                                                                                                                                                            |
+| **AoE Defense / Területi Védelem**         | Ezt az értéket a területi hatású (AoE) támadások során kell figyelembe venni. Ha a dobás sikeres, de nem éri el a teljes védelmi értéket, fél sebzés számítódik. Ha a dobás a védelmi érték felét (lefelé kerekítve) sem éri el, 0 sebzés számítódik.<br>**Számítása:** `5 + DEX`. |
+| **Mental Defense (MD) / Mentális Védelem** | Ez a védekezés mind mágikus hatások, mind mentális támadások ellen is számítható.<br>**Számítása:** `5 + WIL`.                                                                                                                                                                     |
+
+### Egyéb Jellemzők
+
+| Jellemző (Angol / Magyar)      | Leírás                                                                                                                                                                                                                                                                                                                                                                         |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Level / Szint**              | Szintérték, elsősorban a szörnyek vagy mutánsok erejének osztályozására szolgál. Jelentése: egy `2^n` lény erejével bír, ahol `n` a szint értéke. A szintezés 0-ról indul, és a legtöbb játékban a karakterek nem is lépnek szintet. Minden egyéb, a szinthez kapcsolódó érték `2^n`-szeresére nő (külön kell vezetni a szintből származó értékeket, az alapértelmezettektől). |
+| ***Experience / Tapasztalat*** | A tapasztalat valójában nem kerül feltüntetésre a karakterlapon (legfeljebb a még el nem használt tapasztalat), ezért nem számít bele közvetlenül a karakterértékekbe. A játékok során szerzett tapasztalat a képességek fejlesztésére költhető a képességgráfon való haladással.                                                                                              |

@@ -1,7 +1,32 @@
-Minden kasztoló rendelkezik spell slotokkal. A spell slotok száma a következő képpen számolható ki:
-$$ slots = INT * 2 $$Ezekbe a slotokba előre bekészített mágiákat lehet behelyezni és kicserélni. A bekészítéshez nyugalomra és megváltoztatott képességenként 1 órára van szükség. Varázslatot a játékos állítja össze a karaktere által megtanult formából, időből, médiumból és hatásból.
-Ennek lépései:
-1. Amennyiben van több affinitása a mágusnak vagy szellemidézőt játszik a játékos, ki kell, hogy válassza melyik energiát szeretné felhasználni. Ez alól csak a párhuzamos energiák használata lehet kivétel (amit csak azoknál a hatásoknál lehet használni, ahol legalább az egyik haladó szinten áll).
-2. Amennyiben szabadon alakítható a médium a játékos kiválasztja a varázslat médiumát, azaz, hogy milyen módon történik a varázslat kivitelezése. Ebbe bele tartozik az idő, a forma, a méret és az erősség is. A részletes leírást a [[Varázslat és varázskörök]] írja le.
-3. Ha minden szükséges választást megtett a játékos, és szabadon alakítható a varázslata, akkor szükséges egy Spell Casting Check-et dobni. Ez alapértelmezetten DC 10, de a [[Varázslat és varázskörök]] leírja amennyiben ez módosul. Ha nem szabadon alakítható a varázslat akkor annak a bekészítésekor szükséges egy Spell Crafting Check-et dobni, amire ugyanezek a DC-k érvényesek. Ha a Spell Crafting Check nem sikerül akkor 8 órán belül lehet újrapróbálni (elakad a karakter a helyes használat tervezésében), ha a Spell Casting Check nem sikerült akkor pedig 1 percen belül (Ideiglenesen elzárja magától az adott varázslatot). Ezentúl hibás Spell Casting Check esetén a GM dönthet úgy, hogy végbemegy a spell de nem egészen úgy ahogy az tervezve volt, ezzel szemléltetve a mágia veszélyeit. Sikert követően a varázslat leírásának megfelelően történik meg a hatás.
+### Varázslat Slotok (Spell Slots)
 
+Minden varázsló rendelkezik **Spell Slotokkal (Varázslat Slotok)**, amelyek a bekészíthető varázslatok számát jelölik.
+
+| Érték                  | Számítás           | Leírás                                                                                                                    |
+| :--------------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **Spell Slotok száma** | $$ INT \times 2 $$ | Ez a szám azt mutatja meg, hány elsőrendű varázslatot tarthat a karakter bekészítve (előkészítve) a gyors elkasztoláshoz. |
+
+Ezekbe a slotokba előre bekészített varázslatokat lehet elhelyezni, majd szükség esetén kicserélni. A varázslatok bekészítése gondos felkészülést igényel.
+
+### Varázslat Bekészítése (Spell Preparation) & kasztolás (Spellcasting)
+
+A varázslatok bekészítéséhez nyugodt környezetre és varázslatonként 1 óra időre van szükség. A varázslatok bekészítése és elkasztolása az alábbi lépések szerint történik. A játékos állítja össze a varázslatot a karaktere által megtanult **formából**, **időből**, **médiumból** és **hatásból**.
+
+#### Bekészítés Lépései:
+
+1.  **Energia Affinitás Kiválasztása:**
+    Amennyiben a mágusnak több affinitása van, vagy a játékos szellemidézőt alakít, ki kell választania, melyik energiát (affinitást) kívánja felhasználni a varázslathoz. Ez alól kivételt képez a párhuzamos energiák használata, amely csak olyan hatásoknál alkalmazható, ahol legalább az egyik hatás haladó szinten áll.
+
+2.  **Mágikus Médium Megformálása (Szabad Médium esetén):**
+    Ha a varázslat **szabadon alakítható médiummal** rendelkezik, a játékosnak ki kell választania a varázslat médiumát, azaz azt, hogy milyen módon történik a varázslat kivitelezése. Ebbe beletartozik a varázslat **ideje**, **formája**, **mérete** és **erőssége** is. A részletes leírást és a választható opciókat a [[Varázslat és varázskörök]] fejezet tartalmazza.
+
+3.  **Dobás a Varázslat Bekészítéséhez/Kasztolásához:**
+    * **Szabadon Alakítható Varázslatok:** Ha a játékos minden szükséges választást megtett, és a varázslat **szabadon alakítható**, akkor szükséges egy **Varázslatkasztolás Próba (Spell Casting Check)** dobása. Alapértelmezés szerint a Célnehézség (DC) **10**, de a [[Varázslat és varázskörök]] leírja, amennyiben ez módosul.
+    * **Nem Szabadon Alakítható Varázslatok:** Ha a varázslat **nem szabadon alakítható**, annak bekészítésekor szükséges egy **Varázslatkészítés Próba (Spell Crafting Check)** dobása. Ugyanezek a DC-k érvényesek.
+
+#### Dobások Következményei és a Mágia Veszélyei:
+
+* **Sikertelen Varázslatkészítés Próba:** Ha a **Varázslatkészítés Próba** sikertelen, a karakter 8 órán belül nem próbálkozhat újra az adott varázslat bekészítésével (elakad a helyes használat megtervezésében, és pihenésre van szüksége a gondolatok rendezéséhez).
+* **Sikertelen Varázslatkasztolás Próba:** Ha a **Varázslatkasztolás Próba** sikertelen, a karakter 1 percen belül nem használhatja az adott varázslatot (ideiglenesen elzárja magától azt az erőt, vagy a koncentrációja megbillen).
+* **A Mágia Kiszámíthatatlansága:** Sikertelen Varázslatkasztolás Próba esetén a Mesélő (GM) dönthet úgy, hogy a varázslat végbemegy, de nem teljesen a tervezett módon. Ez szemléltetheti a mágia inherens veszélyeit és kiszámíthatatlanságát, váratlan (akár káros, akár meglepő) hatásokkal járva.
+* **Sikeres Dobás:** Sikeres próbát követően a varázslat leírásának megfelelően történik meg a hatás, a választott paraméterekkel.
