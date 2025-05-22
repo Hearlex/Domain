@@ -2,9 +2,9 @@
 
 Minden varázsló rendelkezik **Spell Slotokkal (Varázslat Slotok)**, amelyek a bekészíthető varázslatok számát jelölik.
 
-| Érték                  | Számítás           | Leírás                                                                                                                    |
-| :--------------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------ |
-| **Spell Slotok száma** | $$ INT \times 2 $$ | Ez a szám azt mutatja meg, hány elsőrendű varázslatot tarthat a karakter bekészítve (előkészítve) a gyors elkasztoláshoz. |
+| Érték                  | Számítás       | Leírás                                                                                                                    |
+| :--------------------- | :------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **Spell Slotok száma** | $INT \times 2$ | Ez a szám azt mutatja meg, hány elsőrendű varázslatot tarthat a karakter bekészítve (előkészítve) a gyors elkasztoláshoz. |
 
 Ezekbe a slotokba előre bekészített varázslatokat lehet elhelyezni, majd szükség esetén kicserélni. A varázslatok bekészítése gondos felkészülést igényel.
 

@@ -1,34 +1,36 @@
 ---
 cssclasses: []
 ---
-| Védőfelszerelés        | Armor Point (AP) | Követelmény | Testrész  |
-| ---------------------- | ---------------- | ----------- | --------- |
-| Bőrcsizma              | 1                | Nincs       | Láb       |
-| Bőrpáncél              | 2                | Nincs       | Mellkas   |
-| Bőrkesztyű             | 1                | Nincs       | Kéz       |
-| Bőrsisak               | 1                | Nincs       | Fej       |
-| Könnyű Pajzs           | 2                | Nincs       | Kéz (Bal) |
-| Keményített Bőrpáncél  | 3                | STR 1       | Mellkas   |
-| Szövetsisak            | 2                | Nincs       | Fej       |
-| Szövetszárnyú Kesztyű  | 1                | Nincs       | Kéz       |
-| Fémes Csizma           | 2                | STR 1       | Láb       |
-| Fémmel Erősített Pajzs | 3                | STR 1       | Kéz (Bal) |
-| Láncing                | 4                | STR 2       | Mellkas   |
-| Láncszövetes Sisak     | 2                | STR 2       | Fej       |
-| Láncos Kesztyű         | 1                | STR 2       | Kéz       |
-| Lánclábvért            | 3                | STR 2       | Láb       |
-| Lamellás Lábvért       | 3                | STR 2       | Láb       |
-| Lamellás Kesztyű       | 1                | STR 2       | Kéz       |
-| Vas Sisak              | 3                | STR 3       | Fej       |
-| Vas Kesztyű            | 2                | STR 3       | Kéz       |
-| Vaspáncél              | 5                | STR 3       | Mellkas   |
-| Vas Lábvért            | 4                | STR 3       | Láb       |
-| Nehéz Pajzs            | 4                | STR 3       | Kéz (Bal) |
-| Acél Sisak             | 4                | STR 4       | Fej       |
-| Acél Lábvért           | 5                | STR 4       | Láb       |
-| Acél Páncél            | 6                | STR 4       | Mellkas   |
-| Acél Kesztyű           | 2                | STR 4       | Kéz       |
-| Lemezvért              | 7                | STR 4       | Mellkas   |
-| Lemezes Lábvért        | 5                | STR 5       | Láb       |
-| Lemezsisak             | 5                | STR 5       | Fej       |
-| Nehéz Pajzs            | 5                | STR 5       | Kéz (Bal) |
+
+|                        |                      |                 |              |                                                                                                                                                            |
+| ---------------------- | -------------------- | --------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Védőfelszerelés**    | **Armor Point (AP)** | **Követelmény** | **Testrész** | **Hátrányok (Skill Hiánya esetén)**                                                                                                                        |
+| Bőrcsizma              | 1                    | Nincs           | Láb          | Ha nincs **Könnyű Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.  |
+| Bőrpáncél              | 2                    | Nincs           | Mellkas      | Ha nincs **Könnyű Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.  |
+| Bőrkesztyű             | 1                    | Nincs           | Kéz          | Ha nincs **Könnyű Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.  |
+| Bőrsisak               | 1                    | Nincs           | Fej          | Ha nincs **Könnyű Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.  |
+| Könnyű Pajzs           | 2                    | Nincs           | Kéz (Bal)    | Ha nincs **Alap Pajzs Használat** skill: nem kapja meg a pajzs AP bónuszát, nem használhat pajzshoz kötött skilleket.                                      |
+| Keményített Bőrpáncél  | 3                    | STR 1           | Mellkas      | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Szövetsisak            | 2                    | Nincs           | Fej          | Ha nincs **Könnyű Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.  |
+| Szövetszárnyú Kesztyű  | 1                    | Nincs           | Kéz          | Ha nincs **Könnyű Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.  |
+| Fémes Csizma           | 2                    | STR 1           | Láb          | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Fémmel Erősített Pajzs | 3                    | STR 1           | Kéz (Bal)    | Ha nincs **Alap Pajzs Használat** skill: nem kapja meg a pajzs AP bónuszát, nem használhat pajzshoz kötött skilleket.                                      |
+| Láncing                | 4                    | STR 2           | Mellkas      | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Láncszövetes Sisak     | 2                    | STR 2           | Fej          | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Láncos Kesztyű         | 1                    | STR 2           | Kéz          | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Lánclábvért            | 3                    | STR 2           | Láb          | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Lamellás Lábvért       | 3                    | STR 2           | Láb          | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Lamellás Kesztyű       | 1                    | STR 2           | Kéz          | Ha nincs **Közepes Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra. |
+| Vas Sisak              | 3                    | STR 3           | Fej          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Vas Kesztyű            | 2                    | STR 3           | Kéz          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Vaspáncél              | 5                    | STR 3           | Mellkas      | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Vas Lábvért            | 4                    | STR 3           | Láb          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Nehéz Pajzs            | 4                    | STR 3           | Kéz (Bal)    | Ha nincs **Alap Pajzs Használat** skill: nem kapja meg a pajzs AP bónuszát, nem használhat pajzshoz kötött skilleket.                                      |
+| Acél Sisak             | 4                    | STR 4           | Fej          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Acél Lábvért           | 5                    | STR 4           | Láb          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Acél Páncél            | 6                    | STR 4           | Mellkas      | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Acél Kesztyű           | 2                    | STR 4           | Kéz          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Lemezvért              | 7                    | STR 4           | Mellkas      | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Lemezes Lábvért        | 5                    | STR 5           | Láb          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Lemezsisak             | 5                    | STR 5           | Fej          | Ha nincs **Nehéz Páncél Viselés** skill: mozgási sebesség feleződik, nem lehet varázsolni/természetfeletti képességet használni, hátrány minden dobásra.   |
+| Nehéz Pajzs            | 5                    | STR 5           | Kéz (Bal)    | Ha nincs **Alap Pajzs Használat** skill: nem kapja meg a pajzs AP bónuszát, nem használhat pajzshoz kötött skilleket.                                      |

@@ -12,6 +12,9 @@ A skill-ek vagy statok használatánál a d20-as kockával kell dobni. A skill �
 ## Attack roll
 A támadásokat szintén d20-as kockával kell dobni. A fegyver és a fegyverhasználat skilljének módosítóit hozzá lehet adni. Ha a célpontok megfelelő Defense értékét megdobják akkor sikeresnek minősül a támadás és dobhatjuk a támadáshoz tartozó damage roll-t.
 
+## Skill Save
+A Skill Save vagy mentődobás akkor szükséges, hogyha egy támadás vagy hatás ellen aktívan védekezni kell a karakternek. A GM megmondja melyik karakterértékkel, milyen számot kell elérni vagy nagyobbat dobni.
+
 ## Döntetlenek
 Ha a dobások döntetlenre jutnak akkor az alábbiak szerint kell eljárni:
 - Ha a dobás két játékos közötti dobásérték összehasonlításánál lett döntetlen, akkor újra kell dobni.
